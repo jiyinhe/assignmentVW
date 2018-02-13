@@ -1,0 +1,2132 @@
+{{Redirect|VW|other uses|VW (disambiguation)}}
+{{Refimprove|date=July 2017}}
+{{About|Volkswagen Passenger Cars|the parent group|Volkswagen Group|Volkswagen vans,
+trucks and buses|Volkswagen Commercial Vehicles}}
+{{Infobox company
+| name               = Volkswagen
+| logo               = Volkswagen_logo.png
+| logo_size          = 183px
+| type               = [[Brand|Marque]]
+| founder            = [[German Labor Front|German Labor Front (Deutsche
+Arbeitsfront, DAF)]], [[Adolf Hitler]]
+| area_served        = Worldwide
+| key_people         = Herbert Diess ([[Chairman]] of the Board of Management of the
+Volkswagen Passenger Cars brand)
+| industry           = [[Automotive industry|Automotive]]
+| products           = [[Automobile]]s
+| production         = {{increase}}6.073 million units
+| production_year    = 2016 annual report
+| revenue            = {{decrease}}[[Euro|€]]105.651 billion
+| revenue_year       = 2016 annual report
+| net_income         = {{decrease}}€1.869 billion
+| net_income_year    = 2016 annual report
+| num_employees      = 626,715
+| num_employees_year = end of 2016
+| parent             = [[Volkswagen Group]]
+| subsid             =
+| slogan             =
+| homepage           = [http://en.volkswagen.com/ volkswagen.com]
+| intl               = yes
+| foundation         = {{Start date and age|1937|05|28|df=y}}
+| location_city      = [[Wolfsburg]]
+| location_country   = Germany
+}}
+'''Volkswagen''' ({{IPA-de|ˈfɔlksˌvaːɡŋ̍}} - {{Audio|GT VW AG.ogg|listen}}), shortened
+to '''VW''', is a German [[Automotive industry|automaker]] founded on May 28,
+[[1937]] by the [[German Labour Front]] and headquartered in [[Wolfsburg]]. It is the
+flagship [[Brand|marque]] of the [[Volkswagen Group]], the largest automaker by
+worldwide sales in 2016.<ref>{{cite
+web|url=https://www.usatoday.com/story/money/cars/2017/01/30/volkswagen-toyota-world-largest-automaker/97234320/|title=Volkswagen
+passes Toyota as world's largest automaker despite scandal|work=USA
+Today|author=Bomey, Nathan|date=30 January 2017|accessdate=20 June 2017}}</ref>
+
+''Volkswagen'' is German for "people's car", and the company's current international
+[[advertising slogan]] is just "Volkswagen".<ref>{{cite news |
+url=http://qz.com/580701/volkswagens-new-slogan-is-a-lesson-in-humility/ | title='Das
+Auto' No More - Volkswagen’s new slogan is a lesson in humility | work=[[Quartz
+(publication)|Quartz]] | date=23 December 2015 | accessdate=13 January 2016 |
+author=Rodriguez, Ashley}}</ref><ref>{{cite news |
+url=https://www.reuters.com/article/us-volkswagen-emissions-communications-i-idUSKBN0U514L20151222
+| title='Das Auto' no more: Volkswagen plans image offensive | work=[[Reuters]] |
+date=22 December 2015 | accessdate=13 January 2016 | author=Cremer, Andreas |
+location=[[Berlin]]}}</ref> [[American English]] pronunciation is approximately
+"volks wagon" ({{Audio|GT Vokeswagon.ogg|listen}}).<ref>{{cite
+web|url=http://forum.wordreference.com/threads/vw-pronunciation.310316/|title=VW
+pronunciation|website=Forum.wordreference.com|accessdate=2017-07-24}}</ref>{{Better
+source|reason=Source is an internet forum discussion.|date=August 2016}}
+
+==History==
+:''For vehicle timeline tables, see: [[Volkswagen (timeline)]].
+{{advert section|date=July 2017}}
+===1932–1938: People's Car project===
+[[File:Porsche Typ12 Model Nuremberg crop.jpg|thumb|Model of [[Porsche]] Type 12
+(Zündapp), Museum of Industrial Culture, [[Nuremberg]]]]
+Volkswagen was originally established in 1937 by the [[German Labour Front]]
+(Deutsche Arbeitsfront) in [[Berlin]].<ref name="chronicle">{{Cite
+book|title=Volkswagen Chronicle |editor1=Manfred Grieger |editor2=Ulrike Gutzmann
+|editor3=Dirk Schlinkert |publisher=Volkswagen AG |year=2008 |series=Historical Notes
+|volume=7 |isbn=978-3-935112-11-6
+|url=http://www.volkswagenag.com/vwag/vwcorp/info_center/en/publications/2008/05/chronicle.-bin.acq/qual-BinaryStorageItem.Single.File/HN7e_www2.pdf
+|accessdate=21 December 2009 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20101216072143/http://www.volkswagenag.com/vwag/vwcorp/info_center/en/publications/2008/05/chronicle.-bin.acq/qual-BinaryStorageItem.Single.File/HN7e_www2.pdf
+|archivedate=16 December 2010 }}</ref> In the early 1930s, the German auto industry
+was still largely composed of luxury models, and the average German could rarely
+afford anything more than a motorcycle. As a result, only one German out of 50 owned
+a car.  Seeking a potential new market, some car makers began independent "people's
+car" projects&nbsp;– the [[Mercedes-Benz 130|Mercedes 170H]], [[Adler 2.5-litre|Adler
+AutoBahn]], [[Steyr 50|Steyr 55]], and [[Hanomag]] 1.3L, among others.
+
+The trend was not new, as [[Béla Barényi]] is credited with having conceived the
+basic design in the mid-1920s. [[Josef Ganz]] developed the Standard Superior (going
+as far as advertising it as the "German Volkswagen"). In Germany, the company
+[[Hanomag]] mass-produced the [[Hanomag 2/10 PS|2/10 PS]] "Komissbrot", a small,
+cheap rear engined car, from 1925 to 1928.<ref>{{cite web|last=Miller |first=Elan
+|url=http://www.jpost.com/JewishWorld/JewishFeatures/Article.aspx?id=154651|title=Was
+Hitler's Beetle designed by a Jew?|newspaper=Jerusalem
+Post|date=2009-09-13|accessdate=2013-02-18}}</ref> Also, in Czechoslovakia, the
+[[Hans Ledwinka]]'s penned [[Tatra T77]], a very popular car amongst the German
+elite, was becoming smaller and more affordable at each revision. [[Ferdinand
+Porsche]], a well-known designer for high-end vehicles and race cars, had been trying
+for years to get a manufacturer interested in a small car suitable for a family.  He
+felt the small cars at the time were just stripped down big cars.  Instead he built a
+car he called the "Volksauto" from the ground up in 1933, using many of the ideas
+floating around at the time and several of his own, putting together a car with an
+air-cooled rear engine, torsion bar suspension, and a "beetle" shape, the front hood
+rounded for better [[aerodynamic]]s (necessary as it had a small engine).<ref
+name=SmallWonder>{{cite book|last=Nelson|first=Walter|title=Small
+Wonder|year=1967|publisher=Little, Brown & Company|page=333}}</ref>
+
+[[File:VW logo during the 1930s.svg|thumb|left|130px|VW logo during the 1930s,
+initials surrounded by a stylized cogwheel and swastika wings<ref name=Spiegel/>]]
+In 1934, with many of the above projects still in development or early stages of
+production, [[Adolf Hitler]] became involved, ordering the production of a basic
+vehicle capable of transporting two adults and three children at
+{{convert|100|km/h|mph|0|abbr=on}}. He wanted all German citizens to have access to
+cars.<ref name=SmallWonder /> The "People's Car" would be available to citizens of
+the [[Third Reich]] through a savings plan at 990 [[German reichsmark|Reichsmark]]
+($396 in 1930s U.S. dollars)—about the price of a small motorcycle (the average
+income being around 32 RM a week).<ref name="RiseFall">William Shirer, ''The Rise and
+Fall of the Third Reich'' (Touchstone Edition) (New York: Simon & Schuster,
+1990)</ref><ref name="LastBeet">{{cite
+web|url=http://www.lasteditionbeetle.com/history.php|archiveurl=https://web.archive.org/web/20080306113930/http://www.lasteditionbeetle.com/history.php|title=Last
+Edition Beetle: History|archivedate=6 March
+2008|website=Lasteditionbeetle.com|accessdate=22 September 2015}}</ref>
+
+Despite heavy lobbying in favor of one of the existing projects, it soon became
+apparent that private industry could not turn out a car for only 990 RM.  Thus,
+Hitler chose to sponsor an all-new, state-owned factory using Ferdinand Porsche's
+design (with some of Hitler's design constraints, including an air-cooled engine so
+nothing could freeze). The intention was that ordinary Germans would buy the car by
+means of a savings scheme (''"{{lang|de|Fünf Mark die Woche musst du sparen, willst
+du im eigenen Wagen fahren}}"&nbsp;– "Five marks a week you must put aside, if you
+want to drive your own car''"), which around 336,000 people eventually paid
+into<ref>König, Wolfgang. “Adolf Hitler vs. Henry Ford: The Volkswagen, the Role of
+America as a Model, and the Failure of a Nazi Consumer Society.” German Studies
+Review, vol. 27, no. 2, 2004, pp. 249–268. JSTOR, JSTOR,
+www.jstor.org/stable/1433081.</ref>. However, the entire project was financially
+unsound, and only the Nazi party made it possible to provide funding.<ref>* {{Cite
+book| authorlink = Adam Tooze| first = Adam| last = Tooze| title = [[The Wages of
+Destruction]]: The Making and Breaking of the Nazi Economy| location = London|
+publisher = Allen Lane| year = 2006| isbn = 978-0-7139-9566-4| ref = harv|
+page=154}}</ref><ref group="Note">Tooze notes: "Even if the war had not intervened,
+developments up to 1939 made clear that the entire conception of the 'people's car'
+was a disastrous flop." ''Tooze (2006) p.156)''.</ref>
+
+Prototypes of the car called the "KdF-Wagen" (German: ''[[Strength Through Joy|Kraft
+durch Freude]]''&nbsp;– "Strength through Joy"), appeared from 1938 onwards (the
+first cars had been produced in [[Stuttgart]]). The car already had its distinctive
+round shape and [[Air-cooled engine|air-cooled]], [[Flat-4|flat-four]], [[Rear-engine
+design|rear-mounted engine]]. The VW car was just one of many [[Strength Through
+Joy|KdF]] programs, which included things such as tours and outings. The prefix
+''Volks—'' ("People's") was not just applied to cars, but also to other products in
+Germany; the "[[Volksempfänger]]" radio receiver for instance. On May 28, 1937,
+''Gesellschaft zur Vorbereitung des Deutschen Volkswagens mbH'' ("Company for the
+Preparation of the German Volkswagen Ltd."), or ''Gezuvor''<ref
+name="porsche-75">{{cite web|
+url=https://press.pl.porsche.com/download/prod/presse_pag/PressBasicData.nsf/Download?OpenAgent&attachmentid=166917|
+archive-url=https://web.archive.org/web/20160923153859/https://press.pl.porsche.com/download/prod/presse_pag/PressBasicData.nsf/Download?OpenAgent&attachmentid=166917|
+dead-url=yes| archive-date=23 September 2016| title=Seventy-Five Years Ago: Porsche
+Receives the Order to Construct the Volkswagen| date=16 June 2009|
+website=porsche.com| publisher=[[Porsche AG]]|accessdate=22 January 2010}}</ref> for
+short, was established by the [[Deutsche Arbeitsfront]] in [[Berlin]]. More than a
+year later, on September 16, 1938, it was renamed to ''Volkswagenwerk [[GmbH]]''.<ref
+name="Odin, L.C. 2015">Odin, L.C. ''World in Motion 1939 - The whole of the year's
+automobile production''. Belvedere Publishing, 2015. ASIN:
+B00ZLN91ZG.</ref><ref>{{cite
+web|url=http://www.hillsideimports.com/vw-history/brief-history-volkswagen|title=A
+Brief History Of Volkswagen|website=hillsideimports.com|accessdate=10 March
+2015}}</ref>
+
+[[File:VW Typ 83 vr.jpg|thumb|VW Type 82E]]
+
+[[Erwin Komenda]], the longstanding [[Auto Union]] chief designer, part of Ferdinand
+Porsche's hand-picked team,<ref name=SmallWonder /> developed the car body of the
+prototype, which was recognizably the [[Volkswagen Beetle|Beetle]] known today. It
+was one of the first cars designed with the aid of a [[wind tunnel]]—a method used
+for German aircraft design since the early 1920s. The car designs were put through
+rigorous tests, and achieved a record-breaking million miles of testing before being
+deemed finished.
+
+The construction of the new factory started in May 1938 in the new town of "Stadt des
+KdF-Wagens" (modern-day [[Wolfsburg]]), which had been purpose-built for the factory
+workers.<ref name="Odin, L.C. 2015"/> This factory had only produced a handful of
+cars by the time war started in 1939. None were actually delivered to any holder of
+the completed saving stamp books, though one Type 1 Cabriolet was presented to Hitler
+on 20 April 1944 (his 55th birthday).<ref name="Odin, L.C. 2015"/>
+
+War changed production to military vehicles—the Type 82 ''[[Volkswagen
+Kübelwagen|Kübelwagen]]'' ("Bucket car") utility vehicle (VW's most common wartime
+model), and the [[amphibious vehicle|amphibious]] ''[[Volkswagen
+Schwimmwagen|Schwimmwagen]]''—manufactured for German forces.<!-- There is an
+unreasonably large gap in the history here from April 1938 until April 1945. With the
+amount of detail given both before April 1938 and after April 1945, this omission
+should at least be noted, if not fully fleshed out. --> As was common with much of
+the production in [[Nazi Germany]] during the war, [[slave]] labor was utilized in
+the Volkswagen plant, e.g. from [[Arbeitsdorf]] concentration camp. The company would
+admit in 1998 that it used 15,000 slaves during the war effort. German historians
+estimated that 80% of Volkswagen's wartime workforce was slave labor.{{citation
+needed|date=May 2011}} Many of the slaves were reported to have been supplied from
+the concentration camps upon request from plant managers. A lawsuit was filed in 1998
+by survivors for restitution for the forced labor.<ref>{{cite news|title=Volkswagen
+Faces Suit Over Jewish Slave
+Labor|url=https://www.nytimes.com/1998/06/13/world/world-news-briefs-volkswagen-faces-suit-over-jewish-slave-labor.html|accessdate=18
+May 2011|newspaper=The New York Times|date=13 June 1998}}</ref>  Volkswagen would set
+up a voluntary restitution fund.<ref>{{cite news|title=World: Americas German firms
+face slave labour
+case|url=http://news.bbc.co.uk/2/hi/americas/162126.stm|accessdate=18 May
+2011|newspaper=BBC News |date=1 September 1998}}</ref>
+
+[[File:VW Wolfsburg.JPG|thumb|Volkswagen factory]]
+
+===1945–1948: British Army intervention, unclear future===
+The company owes its [[post-war]] existence largely to one man, War-time [[British
+Army]] [[officer (armed forces)|officer]] Major [[Ivan Hirst]], [[Royal Electrical
+and Mechanical Engineers|REME]]. In April 1945, KdF-Stadt and its heavily bombed
+factory were captured by the Americans, and subsequently handed over to the British,
+within whose [[Allied Occupation Zones in Germany|occupation zone]] the town and
+factory fell. The factories were placed under the control of [[Saddleworth]]-born
+Hirst, by then a civilian Military Governor with the occupying forces. At first, one
+plan was to use it for [[List of military vehicles|military vehicle]] maintenance,
+and possibly dismantle and ship it to Britain. Since it had been used for military
+production, (though not of KdF-Wagens) and had been in Hirst's words, a "political
+animal" rather than a commercial enterprise{{cn|date=July 2017}} — technically making
+it liable for destruction under the terms of the [[Potsdam Agreement]] — the
+equipment could have been salvaged as [[war reparations]].{{cn|date=July 2017}}
+Allied dismantling policy changed in late 1946 to mid-1947, though heavy industry
+continued to be dismantled until 1951.{{cn|date=July 2017}}
+
+One of the factory's War-time 'KdF-Wagen' cars had been taken to the factory for
+repairs and abandoned there. Hirst had it repainted green and demonstrated it to
+British Army headquarters. Short of light transport, in September 1945 the British
+Army was persuaded to place a vital order for 20,000 cars. However, production
+facilities had been massively disrupted, there was a refugee crisis at and around the
+factory and some parts (such as carburetors) were unavailable. With striking humanity
+and great engineering and management ingenuity, Hirst and his German assistant
+[[Heinrich Nordhoff]] (who went on to run the Wolfsburg facility after Military
+Government ended in 1949) helped to stabilize the acute social situation while
+simultaneously re-establishing production. Hirst, for example, used his fine
+engineering experience to arrange the manufacture of carburetors, the original
+producers being effectively 'lost' in the Russian zone.<ref>{{cite
+journal|last1=Porter|first1=Lindsay|title=Mr|journal=Thoroughbred & Classic
+Cars|date=October 1986}}</ref> The first few hundred cars went to personnel from the
+occupying forces, and to the German Post Office. Some British [[Soldier|Service
+personnel]] were allowed to take their [[Volkswagen Beetle|Beetles]] back to the
+United Kingdom when they were [[Demobilization|demobilised]].<ref
+name=uk-import-first>{{cite web
+|url=http://www.hillsideimports.com/vw-history/the-first-demonstrator-of-the-volkswagen-beetle
+|title=Volkswagen Model 11 Beetle | website=hillsideimports.com | date=20 February
+2014 | accessdate=4 April 2015}}</ref>{{better source|date=July 2017}}
+
+In 1986, Hirst explained how it was commonly misunderstood that he had run Wolfsburg
+as a British Army Major. The defeated German staff, he said, were initially sullen
+and unresponsive, having been conditioned by many years of Nazism and they were
+sometimes unresponsive to orders. At Nordhoff's suggestion, he sent back to England
+for his officer's uniform and from then on, had no difficulty in having his
+instructions followed. Hirst can be seen photographed at Wolfsburg in his uniform,
+although he was not actually a soldier at the time but a civilian member of the
+Military Government. The title of 'Major' was sometimes used by someone who had left
+the Army as a courtesy title. In fact, Hirst chose not to do so.{{cn|date=July 2017}}
+
+The post-war [[Industrial plans for Germany]] set out rules that governed which
+industries Germany was allowed to retain. These rules set German car production at a
+maximum of 10% of 1936 car production.<ref>{{cite
+web|url=http://www.trumanlibrary.org/whistlestop/study_collections/marshall/large/documents/index.php?pagenumber=10&documentid=22&documentdate=1947-03-24&studycollectionid=mp&nav=OK
+|title=Harry S. Truman – Library & Museum&nbsp;– Draft, The President's Economic
+Mission to Germany and Austria, Report 3, March, 1947; OF 950B: Economic Mission as
+to Food...; Truman Papers |publisher=Trumanlibrary.org |accessdate=27 September
+2010}}</ref> By 1946, the factory produced 1,000 cars a month—a remarkable feat
+considering it was still in disrepair. Owing to roof and window damage, production
+had to stop when it rained, and the company had to barter new vehicles for steel for
+production.{{cn|date=July 2017}}
+
+The car and its town changed their Second World War-era names to "Volkswagen" and
+"[[Wolfsburg]]" respectively, and production increased. It was still unclear what was
+to become of the factory. It was offered to representatives from the American,
+Australian, British, and French motor industries. Famously, all rejected it. After an
+inspection of the plant, [[William Edward Rootes, 1st Baron Rootes|Sir William
+Rootes]], head of the British [[Rootes Group]], told Hirst the project would fail
+within two years, and that the car "...is quite unattractive to the average motorcar
+buyer, is too ugly and too noisy ... If you think you're going to build cars in this
+place, you're a bloody fool, young man." {{Citation needed|date=October 2009}} The
+official report said "To build the car commercially would be a completely uneconomic
+enterprise."<ref>Anders Ditlev Clausager (18 March 2000).
+[https://www.theguardian.com/news/2000/mar/18/guardianobituaries Obituaries – Ivan
+Hirst] [[The Guardian]](UK).</ref>  In an ironic twist of fate, Volkswagen
+manufactured a locally built version of Rootes's [[Hillman Avenger]] in Argentina in
+the 1980s, long after Rootes had gone bankrupt at the hands of [[Chrysler
+Corporation|Chrysler]] in 1978—the Beetle outliving the Avenger by over 30 years.
+
+Ford representatives were equally critical. In March 1948, the British offered the
+Volkswagen company to Ford, free of charge. [[Henry Ford II]], the son of [[Edsel
+Ford]], traveled to West Germany for discussions. Heinz Nordhoff was also present,
+and Ernest Breech, chairman of the board for Ford Motor Company. Henry Ford II looked
+to Ernest Breech for his opinion, and Breech said, "Mr. Ford, I don't think what
+we're being offered here is worth a dime!"<ref name=SmallWonder /> Ford passed on the
+offer, leaving Volkswagen to rebuild itself under Nordhoff's
+leadership.{{cn|date=July 2017}}
+
+===1948–1961: Icon of post war West German regeneration===
+[[File:1949 VW Beetle.jpg|right|thumb|1949 Volkswagen "split rear window" [[Sedan
+(car)|Sedan]]]]
+[[File:Volkswagen Typ 1 Cabriolet 1953.jpg|thumb|right|Volkswagen Cabriolet (1953)]]
+[[File:2010-05-04-VW-T1-1.JPG|right|thumb|[[Volkswagen Type 2]] (T1)]]
+[[File:glj01.jpg|thumb|right|An original 1300 Deluxe, circa 1966.]]
+[[File:Volkswagen Beetle successor proposal (1967) which never got past the prototype
+stage.JPG|thumb|right|In the later 1960s, as worldwide appetite for the Beetle
+finally began to diminish, a variety of successor designs were proposed and, in most
+cases, rejected by management.]]
+
+From 1948, Volkswagen became an important element, symbolically and economically, of
+West German regeneration.{{according to whom|date=July 2017}} [[Heinrich Nordhoff]]
+(1899–1968), a former senior manager at [[Opel]] who had overseen civilian and
+military vehicle production in the 1930s and 1940s, was recruited to run the factory
+in 1948. In 1949, Major Hirst left the company—now re-formed as a trust controlled by
+the West German government and government of the State of [[Lower Saxony]]. The
+"Beetle" sedan or "peoples' car" Volkswagen is the Type 1. Apart from the
+introduction of the [[Volkswagen Type 2]] [[commercial vehicle]] (van, pick-up and
+camper), and the [[Volkswagen Karmann Ghia|VW Karmann Ghia]] sports car, Nordhoff
+pursued the one-model policy until shortly before his death in 1968.
+
+Volkswagens were first exhibited and sold in the United States in 1949, but sold only
+two units in America that first year. On entry to the U.S. market, the VW was briefly
+sold as a ''Victory Wagon''. [[Volkswagen Group of America|Volkswagen of America]]
+was formed in April 1955 to standardise sales and service in the United States.
+Production of the Type 1 Volkswagen Beetle increased dramatically over the years, the
+total reaching one million in 1955.
+
+The UK's first official Volkswagen Importer, Colborne Garages of [[Ripley, Surrey]],
+started with parts for the models brought home by soldiers returning from
+Germany.<ref name=uk-import-first/>
+
+Canadian Motors, Limited brought in Canada's first shipment of Volkswagens on 10 July
+1952 (shipping order 143075){{citation needed|date=October 2016}}. The order
+consisted of 12 vehicles, (3) model 11C, a black, green, and sandcolor (3) 11GS, a
+chestnut brown and two azure blue, (2) 24A-M51 in red, (1)21A in blue, (1) 23A in
+blue, (1) 22A beige color, and one ambulance{{citation needed|date=October 2016}}.
+Volkswagens were seen in Canada for the first time at the Canadian National
+Exhibition in August 1952 and were accepted enthusiastically. (At least one Type 2
+bus from this order still exists, and is currently in France undergoing
+restoration){{citation needed|date=October 2016}}. The first shipment for Volkswagen
+Canada reached Toronto in early December 1952. (At least one Type 1 from this first
+shipment still exists, and was driven on a nationwide tour for Volkswagen Canada's
+60th year of business festivities in 2012){{citation needed|date=October 2016}}. 
+
+By 1955, sales were on a basis that warranted the building of the Volkswagen plant on
+a {{convert|32|acre|m2|adj=on}} site on Scarboro's Golden Mile. To this, a
+{{convert|60000|sqft|m2|adj=on}} building with administration, showrooms, service,
+repairs and parts was built in 1957, with storage for $4,000,000 of parts{{citation
+needed|date=October 2016}}.
+ 
+In 1959, VW started production at a plant near São Paulo in Brazil.
+<ref>[http://www.ardmediathek.de/tv/Reportage-Dokumentation/Komplizen-VW-und-die-brasilianische-M/Das-Erste/Video?bcastId=799280&documentId=44669802
+Komplizen? - VW und die brasilianische Militärdiktatur.] DasErste, ARD,
+24.07.2017</ref> Volkswagen do Brasil was accused of spying on workers during the
+time of the military dictatorship in the 1970´s and informing police on oppositional
+activities. In 1976, mass arrests occurred and some VW employees were tortured. In
+1979, Brazilian VW workers traveled to Wolfsburg to inform the CEO in person. In
+2015, activists and former VW employees in Brazil spoke out in public accused the
+company´s silence about persecution of its workers. In fall 2016, VW commissioned an
+expet review of the situation due end of
+2017.<ref>[http://www.dw.com/en/vw-worked-hand-in-hand-with-brazils-military-dictatorship/a-39814070
+VW worked hand in hand with Brazil's military dictatorship] 24.07.2017 Deutsche
+Welle</ref>
+
+On August 22, 1960, ''Volkswagenwerk GmbH'' was renamed to ''Volkswagenwerk AG''.
+
+Sales soared, throughout the 1960s, peaking at the end of the decade, thanks in part
+to the famous advertising campaigns by New York advertising agency [[DDB
+Worldwide|Doyle, Dane Bernbach]].{{cn|date=July 2017}} Led by art director Helmut
+Krone, and copywriters [[Julian Koenig]] and Bob Levinson, Volkswagen advertisements
+became{{when|date=July 2017}} as popular as the car, using crisp layouts and witty
+copy to lure the younger, sophisticated consumers with whom the car became
+associated.{{cn|date=July 2017}} Even though it was almost universally known as the
+Beetle (or the Bug), it was never officially labelled as such by the manufacturer,
+instead referred to as the Type 1.{{cn|date=July 2017}}
+
+Although the car was becoming outdated, during the 1960s and early 1970s, American
+exports, innovative advertising, and a growing reputation for reliability helped
+production figures surpass the levels of the previous record holder, the [[Ford Model
+T]]. On 17 February 1972 the 15,007,034th Beetle was sold. Volkswagen could now claim
+the world production record for the most-produced, single make of car in history. By
+1973, total production was over 16 million.
+
+To commemorate its passing the Ford Model T's record sales mark and its victories in
+the Baja 1000 Mexican races from 1967 to 1971, Volkswagen produced its first
+limited-edition Beetle. It was marketed as the "Baja Champion SE"<ref>Colin Shinkin
+[http://www.sebeetles.com/champion.htm About the 1972 Baja Champion SE – USA]
+{{webarchive|url=https://web.archive.org/web/20150428232126/http://www.sebeetles.com/champion.htm
+|date=28 April 2015 }} (photos). SEBeetles.com.</ref> in the United States and the
+"Marathon" Superbeetle in the rest of the world. It featured unique "Marathon Blau"
+metallic blue paint, steel-pressed 10-spoke 15-inch (38&nbsp;cm) magnesium-alloy
+wheels, a commemorative metal plate mounted on the glovebox and a certificate of
+authenticity presented to the original purchaser. Dealer-installed options for this
+limited-edition Superbeetle included the following: white stripes running the length
+of the rocker-panel, a special shifter knob, bumper overriders, tapered exhaust tips,
+fake walnut inserts in the dashboard (behind the steering wheel and the glovebox
+cover) as well as [[Robert Bosch GmbH|Bosch]] fog lights mounted on the front
+bumper.{{cn|date=July 2017}}
+
+===1961–1973: Beetle to Golf===
+[[File:Volkswagen Type 3.jpg|thumb|left|A 1963 [[Volkswagen Type 3|VW Type 3
+Notchback]] ]]
+
+The 1961 Type 1 Beetle had a 36hp 1200cc four cylinder air-cooled flat-four opposed
+OHV engine made of aluminum alloy block and heads. By 1966, the Type 1 came with a
+1300 engine. By 1967 the Type 1 had a 1500 engine, and 1600 in 1970. The air-cooled
+engine lost favor in the USA market with the advent of non-leaded gasoline and smog
+controls. These air-cooled engines were commonly tuned to be fuel rich in order to
+control engine over-heating, and this led to excessive carbon monoxide emissions. VW
+Production equipment was eventually moved to Mexico where vehicle emissions were not
+regulated. Beetles were popular on the USA West Coast where the limited-capacity
+cabin heating was less inconvenient. Beetles were popularized on the USA West Coast
+as beach buggies and dune buggies. 
+
+VW expanded its product line in 1961 with the introduction of four [[Volkswagen Type
+3|Type 3]] models (Karmann Ghia, Notchback, Fastback, and Variant) based on the new
+Type 3 mechanical underpinnings. The name 'Squareback' was used in the U.S.A for the
+Variant.
+
+In 1969 the larger [[Volkswagen Type 4|Type 4]] (411 and 412) models were introduced.
+These differed substantially from previous vehicles, with the notable introduction of
+[[monocoque|monocoque/unibody]] construction, the option of a fully [[automatic
+transmission]], electronic [[fuel injection]], and a sturdier powerplant.
+
+Volkswagen added a "Super Beetle"<ref>{{cite web|last=Dean |first=Wayne |date=28
+October 2006 |url= http://www.superbeetles.com/history.htm |title=History of the
+Super Beetle |publisher=superbeetles.com |accessdate=6 May 2015}}</ref> (the Type
+131) to its lineup in 1971. The Type 131 differed from the standard Beetle in its use
+of a [[MacPherson strut]] front [[suspension (vehicle)|suspension]] instead of the
+usual [[torsion beam suspension|torsion bars]]. The Super Beetle featured a new
+hooded, padded dash and curved windshield (from 1973 model year on up). Rack and
+pinion steering replaced recirculating ball steering gears in model year 1975 and up.
+The front of the car was stretched {{convert|2|in|mm}} to allow the spare tire to lie
+flat, and the combination of these two features increased the usable front luggage
+space.
+
+In 1973, Volkswagen introduced the military-themed [[Volkswagen 181|Type 181]], or
+"Trekker" in Europe, "Thing" in America, recalling the wartime Type 82. The military
+version was produced for the [[NATO]]-era [[German Army]] during the [[Cold War]]
+years of 1970 to 1979. The U.S. Thing version only sold for two years, 1973 and 1974.
+
+[[File:Bundesarchiv B 145 Bild-F038791-0007, Wolfsburg, VW
+Autowerk.jpg|thumb|left|[[Volkswagen Type 4]] [[assembly line]] in [[Wolfsburg]] as
+of 1973]]
+[[File:1969 Volkswagen 1600 Type 3 Squareback (17081445566).jpg|thumb|right|1969 VW
+Squareback (Type III)]]
+
+In 1964, Volkswagen acquired [[Auto Union]], and in 1969, [[NSU Motorenwerke AG]]
+(NSU). The former company owned the historic [[Audi]] brand, which had disappeared
+after the Second World War. VW ultimately merged Auto Union and NSU to create the
+modern Audi company, and would go on to develop it as its [[luxury vehicle]]
+[[marque]]. The purchase of Auto Union and NSU was a pivotal point in Volkswagen's
+history, as both companies yielded the technological expertise that proved necessary
+for VW to survive when demand for its air-cooled models went into decline.
+
+By late 1972, Volkswagen had decided to cancel the nearly finished [[:File:Volkswagen
+EA266 prototype Beetle replacement.JPG|typ 266]], a project for a mid-engined car to
+replace the Beetle, and to focus on front-wheel-drive, water-cooled cars. [[Rudolf
+Leiding]], recently made head of Volkswagen, cited noise, heat, and servicing
+problems with the mid-engine layout, as well as the difficulty of making it a station
+wagon.<ref name=zaCAR1172>{{cite magazine | magazine = CAR (South Africa) | title =
+Volkswagenwerk plans new cars and engines | last = Wilkins | first = Gordon | volume
+= 16 | number = 11 | date = December 1972 | ref = DNLCV | page = 11 | publisher =
+Ramsay, Son & Parker (Pty) Ltd. | location = Cape Town, South Africa }}</ref>
+
+[[File:Vw passat b1 v sst.jpg|thumb|right|[[Volkswagen Passat]] (1973–1977 model)]]
+
+Volkswagen was in serious trouble by 1973.<ref>William Beaver (Nov–Dec 1992).
+[https://archive.is/20120709024025/http://findarticles.com/p/articles/mi_m1038/is_n6_v35/ai_13246858
+Volkswagen's American assembly plant: Fahrvergnugen was not enough – international
+marketing] ''findarticles.com''; Business Horizons.</ref> The Type 3 and Type 4
+models had sold in much smaller numbers than the Beetle and the [[NSU Motorenwerke
+AG|NSU]]-based K70 also failed to woo buyers. Beetle sales had started to decline
+rapidly in European and North American markets. The company knew that Beetle
+production had to end, but faced a conundrum of how to replace it. VW's ownership of
+Audi/[[Auto Union]] proved beneficial. Its expertise in [[front-wheel drive]], and
+[[water cooling|water-cooled]] engines would help Volkswagen produce a credible
+Beetle successor. Audi influences paved the way for this new generation of
+Volkswagens: the Passat, Scirocco, Golf, and Polo.
+
+First in the series was the [[Volkswagen Passat]] (Dasher in the US), introduced in
+1973, a [[fastback]] version of the [[Audi 80]], using many identical body and
+mechanical parts. Estate/wagon versions were available in many markets. In Europe,
+the estate/wagon version dominated in market share for many years.
+
+In spring 1974, the [[Volkswagen Scirocco|Scirocco]] followed. The coupe was designed
+by [[Giorgetto Giugiaro]]. Based on the platform of the not yet released [[Volkswagen
+Golf|Golf]], it was built at [[Karmann]] due to capacity constraints at Volkswagen.
+
+The pivotal model emerged as the Volkswagen Golf in 1974, marketed in the United
+States and Canada as the Rabbit for the 1st generation (1975–1985) and 5th generation
+(2006–2009). Its angular styling was designed by the Italian [[Giorgetto Giugiaro]]).
+Its design followed trends for small family cars set by the 1959 [[Mini]]&nbsp;– the
+Golf had a [[transverse engine|transversely mounted]], water-cooled engine in the
+front, driving the front wheels, and had a [[hatchback]], a format that has dominated
+the market segment ever since. Beetle production at Wolfsburg ended upon the Golf's
+introduction. It continued in smaller numbers at other German factories ([[Hanover]]
+and [[Emden]]) until 1978, but mainstream production shifted to Brazil and Mexico.
+
+In 1975, the [[Volkswagen Polo]] followed. It was a re-badged [[Audi 50]], which was
+soon discontinued in 1978. The Polo became the base of the [[Volkswagen Derby]],
+which was introduced 1977. The Derby was for all intents and purposes a [[Three-box
+styling|three-box design]] of the Polo. After a second model generation, the Derby
+was discontinued in 1985, although the bodystyle lived on in the form of the polo
+classic/polo saloon until 1991.
+
+Passat, Scirocco, Golf, and Polo shared many character defining features, as well as
+parts and engines. They built the basis for Volkswagen's turn-around.
+
+===1974–1990: Product line expansion===
+[[File:VW Polo I front 20090810.jpg|thumb|[[Volkswagen Polo Mk1|Volkswagen Polo]]
+(1975–1979 model)]]
+
+While Volkswagen's range of cars soon became similar to that of other large European
+automakers, the Golf has been the mainstay of the Volkswagen lineup since its
+introduction,{{when|date=July 2017}} and the mechanical basis for several other cars
+of the company. There have been seven generations of the [[Volkswagen Golf]], the
+first of which was produced from the summer of 1974 until the autumn of 1983 (sold as
+the Rabbit in the United States and Canada and as the Caribe in Latin America). Its
+chassis also spawned the [[Volkswagen Scirocco]] sport [[coupe]], [[Volkswagen
+Jetta]] saloon/sedan, Volkswagen Golf [[Cabriolet (automobile)|Cabriolet]]
+convertible, and [[Volkswagen Caddy]] pick-up. North American production of the
+Rabbit commenced at the [[Volkswagen Westmoreland Assembly Plant]] near [[New
+Stanton, Pennsylvania]] in 1978. It would be produced in the United States as the
+Rabbit until the spring of 1984. {{cn|date=July 2017}}The second-generation Golf
+hatchback/Jetta sedan ran from October 1983 until the autumn of 1991, and a North
+American version produced at Westmoreland Assembly went on sale at the start of the
+1985 model year. The production numbers of the first-generation Golf has continued to
+grow annually in South Africa as the [[Volkswagen Citi Golf|Citi Golf]], with only
+minor modifications to the interior, engine and chassis, using tooling relocated from
+the [[New Stanton, Pennsylvania]] plant when that site began to build the Second
+Generation car.{{cn|date=July 2017}}
+
+In the 1980s, Volkswagen's sales in the United States and Canada fell dramatically,
+despite the success of models like the Golf elsewhere. The Japanese and the Americans
+were able to compete with similar products at lower prices. Sales in the United
+States were 293,595 in 1980, but by 1984 they were down to 177,709.<ref>Flammang,
+James, ''Volkswagen: Beetles, Buses and Beyond,'' Krause Publications, 1996</ref>
+The introduction of the second-generation Golf, GTI and Jetta models helped
+Volkswagen briefly in North America. [[Motor Trend]] named the GTI its Car of the
+Year for 1985, and Volkswagen rose in the J.D. Power buyer satisfaction ratings to
+eighth place in 1985, up from 22nd a year earlier.<ref>Kiley, David, ''Getting the
+Bugs Out: The Rise, Fall and Comeback of Volkswagen in America,'' John Wiley & Sons,
+2001</ref>  VW's American sales broke 200,000 in 1985 and 1986 before resuming the
+downward trend from earlier in the decade. Chairman [[Carl Hahn]] decided to expand
+the company elsewhere (mostly in developing countries), and the New Stanton,
+Pennsylvania factory closed on 14 July 1988.<ref>{{Cite
+news|url=https://query.nytimes.com/gst/fullpage.html?res=9B0DE7D6113DF932A15752C1A961948260
+|title= Volkswagen to Shut U.S. Plant | newspaper=[[New York Times]] | first=John |
+last=Holusha | date=21 November 1987|accessdate=17 May 2008 }}</ref> Meanwhile, four
+years after signing a cooperation agreement with the Spanish car maker SEAT in 1982,
+Hahn expanded the company by purchasing a majority share of SEAT up to 75% by the end
+of 1986, which VW bought outright in 1990.<ref>{{cite
+web|url=http://media.seat.com/en/company/368-seat-hoy.html |title= A look at SEAT's
+time line 2008-1950 |publisher=SEAT S.A.| website=seat.com }}</ref> On July 4, 1985,
+''Volkswagenwerk AG'' was renamed to ''Volkswagen AG''.
+
+Volkswagen entered the supermini market in 1975 with the [[Volkswagen Polo]], a
+stylish and spacious three-door hatchback designed by [[Gruppo Bertone|Bertone]]. It
+was a strong seller in West Germany and most of the rest of Western Europe, being one
+of the first foreign small cars to prove popular in Britain. It had started out in
+1974 as the [[Audi 50]], which was only available in certain markets and was less
+popular. The Polo entered a market sector already being dominated by the [[Fiat 127]]
+and [[Renault 5]], and which before long would also include the [[Austin Metro]] and
+[[Ford Fiesta]].{{cn|date=July 2017}}
+
+In 1981, the second-generation Polo launched and sold as a hatchback and "coupe"
+(with the hatchback resembling a small estate car and the coupe being similar to a
+conventional hatchback), was an even greater success for Volkswagen.{{cn|date=July
+2017}} Its practicality, despite the lack of a five-door version, helped ensure even
+stronger sales than its predecessor, and it continued to sell well after a makeover
+in 1990, finally being replaced by an all-new version in 1994.{{cn|date=July 2017}}
+Also arriving in 1981 were the second generation of the larger Passat and a second
+generation of the [[Volkswagen Scirocco]] coupe. The original Scirocco had been
+launched in 1974 to compete with affordable four-seater coupes like the [[Ford
+Capri]].{{cn|date=July 2017}}
+
+In 1983 the MK2 Golf was launched. At the beginning of 1988, the third generation
+Passat was the next major car launch and Volkswagen did not produce a hatchback
+version of this Passat, despite the rising popularity of the hatchback bodystyle
+throughout [[Europe]].{{cn|date=July 2017}} Just after launching the B3 Passat,
+Volkswagen launched the [[Volkswagen Corrado|Corrado]], replacement for the Scirocco,
+although the Scirocco remained in production until 1992.{{cn|date=July 2017}}
+
+===1991–1999===
+[[File:Volkswagen Golf IV 3-door.jpg|thumb|right|Volkswagen Golf, in North American
+form]]
+
+In 1991, Volkswagen launched the third-generation Golf, which was [[European Car of
+the Year]] for 1992. The [[Volkswagen Golf Mk3|Golf Mk3]] and Jetta arrived in North
+America in 1993. The sedan version of the Golf was badged Vento in Europe, but
+remained [[Volkswagen Jetta|Jetta]] in the U.S. The [[Volkswagen Scirocco|Scirocco]]
+and the later [[Volkswagen Corrado|Corrado]] were both Golf-based [[coupé]]s.
+
+[[File:2002 Volkswagen New Beetle (9C MY02.5) 2.0 coupe (2010-10-01)
+01.jpg|thumb|right|The [[Volkswagen New Beetle]]]]
+
+In 1994, Volkswagen unveiled the [[J Mays]]-designed [[Volkswagen New Beetle#Concept
+1|Concept One]], a "retro"-themed [[concept car]] with a resemblance to the original
+Beetle, based on the platform of the Polo. Due to a positive response to the concept,
+a production version was developed as the [[Volkswagen New Beetle|New Beetle]], based
+on the Golf's larger platform.<ref name="ltvvwc-2003">{{cite web|title=The VW
+Experimental Vehicles – the 1980s to present pt
+2|url=http://www.ltv-vwc.org.uk/wheelspin/WS_feb_2003/WnW-prototypes04.htm|work=Wheelspin
+|publisher=London & Thames Valley VW Club |accessdate=12 July 2010|date=February
+2003}}</ref>
+
+In 1995 the [[Volkswagen Sharan|Sharan]] was launched in Europe, the result of a
+joint venture with [[Ford]], which also resulted in the [[Ford Galaxy]] and [[SEAT
+Alhambra]].<ref>{{cite web|title=VW
+Sharan|url=http://www.carmagazine.co.uk/Drives/Search-Results/First-drives/VW-Sharan-2011-CAR-review/|website=Car
+Magazine|accessdate=4 January 2015|date=2 June 2011}}</ref>
+
+The company's evolution of its model range was continued with the [[Volkswagen Golf
+Mk4|Golf Mk4]], introduced at the end of 1997 (and in North America in 1999), its
+chassis spawned a host of other cars within the Volkswagen Group; the [[Volkswagen
+Jetta|Volkswagen Bora]] (the sedan called Jetta in the U.S.), SEAT Toledo, SEAT León,
+[[Audi A3]], [[Audi TT]], and [[Škoda Octavia]]. Other main models during the decade
+include the [[Volkswagen Polo|Polo]], a smaller car than the Golf, and the larger
+[[Volkswagen Passat|Passat]] for the segment above the Golf.
+
+In 1998 the company launched the new [[Volkswagen Lupo|Lupo]] city car. In 1999 they
+announced the first "3-litre" car, a lightweight version of the Lupo that could
+travel 100&nbsp;km with only 3-litres of diesel—making it the world's most fuel
+efficient car at the time.<ref>{{cite web|title=VW launches its economic
+miracle|url=http://www.theengineer.co.uk/news/vw-launches-its-economic-miracle/285981.article|website=The
+Engineer|accessdate=4 January 2015|date=5 January 2000}}</ref>
+
+===2000–present: Further expansion===
+[[File:2011 Volkswagen Jetta (1KM MY10) 118TSI sedan (2015-07-03)
+01.jpg|thumb|left|The fifth generation [[Volkswagen Jetta]]]]
+
+Volkswagen began introducing an array of new models after [[Bernd Pischetsrieder]]
+became [[Volkswagen Group]] CEO (responsible for all Group brands) in 2002. The
+sixth-generation [[Volkswagen Golf Mk6|VW Golf]] was launched in 2008, came runner-up
+to the [[Opel Insignia|Opel/Vauxhall Insignia]] in the 2009 [[European Car of the
+Year]], and has spawned several cousins: [[VW Jetta]], [[VW Scirocco]], SEAT León,
+SEAT Toledo, [[Škoda Octavia]] and Audi A3 hatchback ranges, as well as a new
+mini-[[Multi-purpose vehicle|MPV]], the [[SEAT Altea]]. The GTI, a "[[hot hatch]]"
+performance version of the Golf, boasts a 2.0&nbsp;L [[Turbocharger|Turbocharged]]
+Fuel Stratified Injection (FSI) [[Gasoline direct injection|direct injection]]
+engine. VW began marketing the Golf under the Rabbit name once again in the U.S. and
+Canada in 2006.
+
+The sixth-generation Passat and the fifth-generation Jetta both debuted in 2005, and
+VW announced plans to expand its lineup further by bringing back the [[Volkswagen
+Scirocco|Scirocco]] by 2008. Other models in [[Wolfgang Bernhard]]'s (Volkswagen
+brand CEO) "product offensive" include the [[Volkswagen Tiguan|Tiguan]] mid-sized SUV
+in 2008 and a [[Volkswagen Passat Coupé|Passat Coupé]]. In November 2006 Bernd
+Pischetsrieder announced his resignation as Volkswagen Group CEO, and was replaced by
+Audi worldwide CEO [[Martin Winterkorn]] at the beginning of 2007.
+
+[[File:VW Scirocco III 1.4 TSI DSG Team Deep Black.JPG|thumb|right|The third
+generation [[Volkswagen Scirocco]]]]
+
+Volkswagen in 2005 maintained North American sales of 224,195. Momentum continued for
+fiscal 2006, as VW's North American sales for the year were 235,140 vehicles, a 4.9
+percent increase over 2005, despite a slump in domestic North American manufacturer's
+sales. In conjunction with the introduction of new models, production location of
+Volkswagen vehicles also underwent great change. The 2007 [[Volkswagen Eos|Eos]], a
+hardtop convertible, is produced in a new facility in Portugal. All Golfs/Rabbits and
+GTIs as of 2006 are manufactured in Wolfsburg, Germany, rather than VW's Mexican
+factory in [[Puebla]], where Golfs and GTIs for the North American market were
+produced from 1989 to 1998, and the Brazilian factory in [[Curitiba]], where Golfs
+and GTIs were produced from 1999 to 2006 (the [[Volkswagen Jetta|Jetta]] has
+primarily been made in Mexico since 1989). VW is also in the process of reconfiguring
+an automotive assembly plant in Belgium. The new models and investments in
+manufacturing improvements were noticed immediately by automotive critics. Favorable
+reviews for VW's newest cars include the GTI being named by ''[[Consumer Reports]]''
+as the top sporty car under $25,000, one of ''[[Car and Driver]]'' magazine's "[[Car
+and Driver Ten Best|10 Best]]" for 2007, [[Automobile Magazine|''Automobile''
+Magazine's]] 2007 Car of the Year, as well as a 2008 ''[[Motor Trend]]'' comparison
+ranking the mid-size Passat first in its class.
+
+[[File:VW Golf 7 Blue (11050391564) (cropped).jpg|thumb|left|The seventh generation
+[[Volkswagen Golf]]]]
+
+Volkswagen partnered with [[Daimler AG]] and other companies to market the
+[[BlueTec]] [[clean diesel]] technology on cars and trucks from Mercedes-Benz,
+Volkswagen, and other companies and brands. According to the United States
+Environmental Protection Agency, four of the ten most fuel-efficient vehicles
+available for sale in the U.S. are powered by Volkswagen diesel engines.<ref>{{cite
+web
+|url=http://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&year1=2012&year2=2013&vfuel=Diesel&mclass=Small+Cars,%20Family+Sedans,%20Large+Sedans,%20Upscale+Sedans,%20Luxury+Sedans,%20Hatchbacks,%20Coupes,%20Convertibles,%20Sports/Sporty+Cars,%20Station+Wagons&srchtyp=newDslCars
+|title=Fuel Economy of New Diesel Cars |year=2012 |website=Fueleconomy.gov
+|publisher=United States Environmental Protection Agency |accessdate=5 December
+2012}}</ref> Volkswagen has offered a number of its vehicles with a TDI
+([[Turbocharged Direct Injection]]) engine, which lends class-leading fuel economy to
+several models. They were a three-way tie for 8th (TDI Beetle, TDI Golf, TDI Jetta)
+and ninth, the TDI Jetta Wagon. In addition, all Volkswagen TDI diesel engines
+produced from 1996 to 2006 can be driven on 100% [[biodiesel]] fuel.{{citation
+needed|date=December 2012}}  For the 2007 model year, however, strict U.S. government
+emissions regulations have forced VW to drop most diesels from their U.S. engine
+lineup, but a new lineup of diesel engines compatible to U.S. standards returned to
+the American market starting with Model Year 2009. These post-2009 Clean Diesel
+engines are limited to running on 5% (B5) biodiesel only to maintain Volkswagen's
+warranty. Volkswagen long resisted adding a [[sport utility vehicle|SUV]] to its
+lineup, but relented with the introduction of the [[Volkswagen Touareg|Touareg]],
+made in partnership with Porsche, while they worked on the [[Porsche Cayenne]] and
+later the [[Audi Q7]]. Though acclaimed as a fine handling vehicle, the Touareg has
+been a modest seller at best, and it has been criticised by auto reviewers for its
+absence of a third-row seat, the relatively poor fuel economy, and the high vehicle
+mass. VW set plans to add a compact SUV with styling influences from the "Concept A"
+concept vehicle introduced at the 2006 [[Geneva Auto Show]], and on 20 July 2006, VW
+announced that the new vehicle, called the [[Volkswagen Tiguan|Tiguan]].
+
+Since the discontinuance of the T4 in 2003 and decision not to bring the T5 to the US
+market, Volkswagen, ironically, lacked a van in its North American lineup. To change
+this, Volkswagen launched the [[Volkswagen Routan]], a [[badge
+engineering|badge-engineered]] [[Dodge Caravan|Dodge Grand Caravan]] made for the
+American and Canadian markets, in 2008.
+
+In September 2006, Volkswagen began offering the [[Volkswagen Golf Mk4#Mk4 "City Golf
+(Golf City in 2009)" in Canada, South America & Bora HS in China|City Golf]] and City
+Jetta only for the Canadian market. Both models were originally the [[Volkswagen Golf
+Mk4|Mk4 Golf]] and Jetta but were later replaced with the Brazilian versions of the
+Golf Mk4 and [[Volkswagen Jetta#Ongoing production|Bora]]. Volkswagen's introduction
+of such models is seen as a test of the market for a subcompact and, if successful,
+may be the beginnings of a thriving subcompact market for Volkswagen.
+
+[[File:2006-2010 Volkswagen Passat (3C) sedan (2011-07-17) 01.jpg|thumb|The
+[[Volkswagen Passat]] (3C)]]
+
+In May 2011, Volkswagen completed [[Volkswagen Chattanooga Assembly Plant|Chattanooga
+Assembly]] in the US state of Tennessee. The facility has produced Volkswagen cars
+and SUVs specifically designed for North American markets, beginning with the
+[[Volkswagen Passat NMS|Passat B7]] in 2011. The company recently announced plans to
+expand further by investing $900 million to add floor space to the
+factory.<ref>{{cite
+web|url=http://www.autoblog.com/2015/04/07/volkswagen-expansion-tech-center-chattanooga/|title=Volkswagen
+plans expansion, tech center in Chattanooga|author=Chris Bruce|date=7 April
+2015|work=Autoblog|accessdate=22 September 2015}}</ref>
+
+The [[Volkswagen 1-litre car|VW XL1]] began a limited production run in 2013. The XL1
+is a lightweight and fuel efficient two-person vehicle (only 795&nbsp;kg).
+
+The [[Volkswagen Atlas]] (a large [[crossover (automobile)|crossover]] [[sport
+utility vehicle|SUV]]) begins production in late 2016, and aims to help end several
+years of losses for Volkswagen in the US, the world's second-largest auto market.<ref
+name=Boston>{{Cite
+news|url=http://www.boston.com/business/articles/2008/07/16/vw_picks_tenn_for_its_1st_us_car_plant_since_88/
+|title=VW picks Tenn. for its 1st US car plant since '88 |author=[[Bloomberg News]]
+|newspaper=[[Boston Globe]] |date=16 July 2008}}</ref><ref>{{cite
+web|url=http://m.timesfreepress.com/news/2014/jul/14/vw-announce-new-suv-today-chattanooga/|title=UPDATE:
+VW announces Chattanooga-made SUV, and 2,000 new
+jobs|work=timesfreepress.com|accessdate=22 September 2015}}</ref>
+
+On September 14, 2016, Volkswagen announced its partnership with three Israeli
+cybersecurity experts to create a new company, Cymotive, dedicated to automotive
+security.<ref>By Charlie Osborne, ZDNet.
+“[http://www.zdnet.com/article/volkswagen-launches-new-cybersecurity-firm-to-tackle-car-security/
+Volkswagen launches new cybersecurity firm to tackle car security].” September 15,
+2016. Retrieved September 15, 2016.</ref>
+
+VW calls their shift towards electric vehicles "Transform 2025+". As part of the
+strategy, VW aims to launch more than 30 electric vehicles until 2025, and is
+anticipating yearly sales of 2 to 3 million electric VW cars by 2025, which would
+make up 20 to 25 percent of their total yearly sales volume.<ref>{{cite news
+|author=<!--Staff writer(s); no by-line.--> |title=VW strives to be leader in e-cars,
+self-driving vehicles |work=Deutsche Welle |location=Wolfsburg |date=May 5, 2017
+|access-date=2017-05-07}}</ref> In September 2017, CEO Matthias Mueller announced
+plans to have electric version of all of VW's 300 automotive models by 2030. The
+company vows to spend 20 billion euros by 2030 to roll out the cars and designated
+another 50 billion euros to buy the batteries needed to power the vehicles.<ref
+name="bloomberg-ev">{{cite news|last1=Rauwald|first1=Christoph|title=VW to Build
+Electric Versions of All 300 Models by
+2030|url=https://www.bloomberg.com/news/articles/2017-09-11/vw-ceo-vows-to-offer-electric-version-of-all-300-models-by-2030|accessdate=11
+October 2017|work=Bloomberg|date=September 11, 2017}}</ref>
+
+==Operations==
+{{recentism|date=July 2017}}
+Volkswagen is the founding and namesake member of the [[Volkswagen Group]], a large
+international corporation in charge of multiple car and truck brands, including Audi,
+SEAT, Lamborghini, Bentley, Bugatti, Scania, MAN, and Škoda. Volkswagen Group's
+global headquarters are located in Volkswagen's historic home of Wolfsburg,
+Germany.{{cn|date=July 2017}}<ref>{{Cite
+web|url=https://www.volkswagenag.com/en/group.html|title=Group|website=www.volkswagenag.com|access-date=2017-09-07}}</ref>
+
+Volkswagen Group, as a unit, is currently{{when|date=July 2017}} Europe's largest
+automaker.<ref name=wsj20120604>{{cite news|last=Rauwald|first=Christoph|title=VW
+Bolsters Focus on China|newspaper=[[The Wall Street Journal]]|date=4 June
+2012|page=B3}}</ref>  For a long time, Volkswagen has had a market share over 20
+percent.<ref>{{cite web |
+url=http://www.acea.be/images/uploads/files/20100615_PRPC-FINAL-1005.pdf | title=New
+Car Registrations By Manufacturer(PDF) | publisher=ACEA | date=15 June 2010 |
+accessdate=2 July 2010 | deadurl=yes |
+archiveurl=https://web.archive.org/web/20110808211605/http://www.acea.be/images/uploads/files/20100615_PRPC-FINAL-1005.pdf
+| archivedate=8 August 2011 | df=dmy-all }}</ref>
+
+In 2010, Volkswagen posted record sales of 6.29&nbsp;million vehicles, with its
+global market share at 11.4%.<ref>{{cite web|
+url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=aogNDPaJIfbQ|
+publisher=Bloomberg | title=Volkswagen Posts Record 2009 Sales, Targets Toyota |
+date=12 December 2010 | accessdate=12 December 2010}}</ref>  In 2008, Volkswagen
+became the third largest automaker in the world,<ref>{{cite web|
+url=http://www.leftlanenews.com/vw-overtakes-ford-as-3rd-largest-automaker.html|
+publisher=Left Lane News | title=VW OVERTAKES FORD AS 3RD-LARGEST AUTOMAKER |date=29
+August 2008 | accessdate=12 December 2010}}</ref> and, as of 2012, Volkswagen is the
+second largest manufacturer worldwide.<ref name=wsj20120604/> Volkswagen has aimed to
+double its US market share from 2% to 4% in 2014,<ref>{{cite web|
+url=http://www.freep.com/article/20100111/BUSINESS03/100111045/VW-aims-to-double-U.S.-market-share|
+publisher=Freep | title=VW aims to double U.S. market share | date=12 December 2010 |
+accessdate=12 December 2010}}</ref> and is aiming to become, sustainably, the world's
+largest car maker by 2018.<ref>{{cite
+web|url=http://www.boersennews.de/nachrichten/top-news/volkswagen-will-autoimperium-ausbauen/1728
+|title=Volkswagen will Autoimperium ausbauen (22397572) &#124; börsennews.de
+|publisher=Boersennews.de |date=2009-09-15 |accessdate=2013-12-02}}</ref><ref>{{cite
+web|url=https://translate.google.com/translate?u=http%3A//www.boersennews.de/nachrichten/top-news/volkswagen-will-autoimperium-ausbauen/1728&hl=en&langpair=auto|title=Google
+Translate |publisher=Translate.google.com |date= |accessdate=2013-12-02}}</ref>
+Volkswagen Group's core markets include Germany and China.<ref>{{cite web |
+url=http://media.vw.com/press_releases/volkswagen-group-reports-6-7-percent-growth-in-worldwide-deliveries-in-july
+| publisher=VW | title=Volkswagen Group reports 6.7 percent growth in worldwide
+deliveries in July | date=12 December 2010 | accessdate=12 December 2010 |
+deadurl=yes |
+archiveurl=https://web.archive.org/web/20110725175213/http://media.vw.com/press_releases/volkswagen-group-reports-6-7-percent-growth-in-worldwide-deliveries-in-july
+| archivedate=25 July 2011 | df=dmy-all }}</ref>
+
+===Worldwide presence===
+[[List of Volkswagen Group factories|Volkswagen has factories]] in many parts of the
+world, manufacturing or assembling vehicles for local markets. In addition to plants
+in Germany, Volkswagen has manufacturing or assembly facilities in Mexico, the US,
+Slovakia, China, India, Indonesia,<ref name="investvine">{{cite
+web|url=http://investvine.com/volkswagen-to-open-new-plant-in-indonesia/|title=Volkswagen
+to open new plant in Indonesia|first=Todd|last=Watson |work=Inside Investor |date=20
+August 2013 |accessdate=20 August 2013}}</ref> Russia, Malaysia, Brazil, Argentina,
+Portugal, Spain, Poland, the Czech Republic, Bosnia and Herzegovina, Kenya and South
+Africa. In 2011, Volkswagen was named in the top 25 largest companies in the world by
+the [[Forbes]] Global 2000.<ref>{{Cite news|title=The World's Biggest Public
+Companies|url=https://www.forbes.com/global2000/|magazine=[[Forbes.com]]|accessdate=6
+June 2011}}</ref><ref>{{Cite
+news|title=Volkswagen|url=https://www.forbes.com/companies/volkswagen-group/|magazine=Forbes|accessdate=6
+June 2011}}</ref>
+
+Volkswagen is setting up a new factory in [[West Java]], Indonesia, which started
+construction in mid-2013,.<ref name=ref2013022805>{{Cite news| title = German car
+makers push Indonesia| publisher = Investvine.com| date = 2013-02-28| url=
+http://investvine.com/german-car-makers-push-indonesia-presence/| accessdate
+=2013-04-03}}</ref> The investment into the new plant, which will produce large
+transporters and multivans, is valued at $140 million.
+
+As of May 2014, Volkswagen is planning to start assembling certain engines in India
+to increase localisation from 70% to 90%.<ref>{{cite
+web|url=http://timesofindia.indiatimes.com/Business/India-Business/Volkswagen-plans-engine-assembly-in-India-to-increase-90-per-cent-localisation/articleshow/35389109.cms|title=Volkswagen
+plans engine assembly in India; to increase 90 per cent localisation|work=The Times
+of India|accessdate=22 September 2015}}</ref>
+
+In January 2016, Volkswagen announced launching a new factory in Algeria during a
+summit between [[Angela Merkel]] and Algerian Prime minister [[Abdelmalek
+Sellal]].<ref>{{cite news |
+url=http://www.jeuneafrique.com/293388/economie/automobile-bientot-une-usine-volkswagen-en-algerie/
+| title=Automobile : bientôt une usine Volkswagen en Algérie ? | work=[[Jeune
+Afrique]] | date=13 January 2016 | accessdate=23 January 2016 |
+language=French}}</ref>
+
+===Work–life balance===
+Volkswagen agreed in December 2011 to implement a rule passed by the company's
+[[works council]] aimed at improving [[work–life balance]] by restricting company
+email functionality on the firm's [[BlackBerry]] smartphones from 6:30&nbsp;pm to
+7:30&nbsp;am. The change was a response to employees' complaints about high stress
+levels at work and the expectation that employees would immediately answer
+after-hours email from home. About 1,150 of Volkswagen's more than 190,000 employees
+are affected by the email restriction.<ref name="Volkswagen to Improve Work-Life
+Balance">{{cite news|last=Rzhevskiy|first=Ilya|title=Volkswagen to Improve Work-Life
+Balance|url=http://www.theepochtimes.com/n2/business/volkswagen-to-improve-work-life-balance-168056.html|accessdate=2
+January 2012|newspaper=The Epoch Times}}</ref><ref>{{Citation |url=
+https://www.bloomberg.com/news/2011-12-23/volkswagen-employees-wary-of-burnout-win-reprieve-from-blackberry-messages.html
+|publisher=[[Bloomberg L.P.]] |title= Volkswagen Employees Wary of Burnout Win
+Reprieve From BlackBerry Messages |first= Cornelius |last= Rahn |date= 23 December
+2011 }}</ref>
+
+===Relationship with Porsche and the Volkswagen Law===
+Volkswagen has always had a close relationship with [[Porsche]], the
+[[Stuttgart|Zuffenhausen]]-based sports car manufacturer founded in 1931 by
+[[Ferdinand Porsche]], the original Volkswagen designer and Volkswagen company
+co-founder, hired by Adolf Hitler for the project. The first Porsche car, the
+[[Porsche 64]] of 1938, used many components from the [[Volkswagen Beetle]]. The 1948
+[[Porsche 356]] continued using many Volkswagen components, including a tuned engine,
+[[gearbox]] and suspension.
+
+The two companies continued their collaboration in 1969 to make the [[Porsche
+914|VW-Porsche 914 and Porsche 914-6]]. (The 914-6 had a 6-cylinder Porsche engine,
+and the standard 914 had a Volkswagen engine.) Volkswagen and Porsche would
+collaborate again in 1976 on the [[Porsche 912|Porsche 912-E]] (USA only) and the
+[[Porsche 924]], which used many [[Audi]] components and was built at Audi's
+[[Neckarsulm]] facilities. The 924 was originally designated for AUDI. Most [[Porsche
+944]] models were built there, although they used far fewer VW components.
+
+The [[Porsche Cayenne]], introduced in 2002, shares its entire chassis with the
+[[Volkswagen Touareg]] and [[Audi Q7]], and is built at the same Volkswagen factory
+in [[Bratislava]] that the other SUV's are built.
+
+In September 2005, Porsche announced it would increase its 5% stake in Volkswagen to
+20% at a cost of €3&nbsp;billion, with the intention that the combined stakes of
+Porsche and the government of Lower Saxony would ensure that any hostile takeover by
+foreign investors would be impossible.<ref>{{cite
+news|url=http://news.bbc.co.uk/1/hi/business/4281864.stm |title=Porsche wants 20%
+Volkswagen deal &#124; 26 September 2005 |publisher=BBC News  |date=26 September 2005
+|accessdate=27 September 2010}}</ref>  Speculated suitors included
+[[DaimlerChrysler]], [[BMW]], and [[Renault]]. In July 2006, Porsche increased their
+ownership again to 25.1%.
+
+On 4 March 2005, the European Commission brought an action against the Federal
+Republic of Germany before the European Court of Justice, claiming that the
+[[Volkswagen Law]], which prevents any shareholder in Volkswagen from executing more
+than 20% of the total voting rights in the firm, was illegally restricting the flow
+of capital in Europe.<ref name="Official Text of the action">{{cite
+web|author=Commission of the European Communities|title=Action brought on 4 March
+2005 by the Commission of the European Communities against the Federal Republic of
+Germany|url=http://curia.europa.eu/juris/document/document.jsf?text=Volkswagen&docid=59985&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=66367#ctx1|publisher=European
+Court of Justice|accessdate=13 February 2012}}</ref> On 13 February 2007, [[Advocate
+General]] [[Dámaso Ruiz-Jarabo Colomer]] submitted an opinion to the court in support
+of the action.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/business/6356787.stm
+|title=Top EU court finds against VW law |publisher=BBC News  |date=13 February 2007
+|accessdate=27 September 2010}}</ref> This again opened the possibility of a hostile
+takeover of VW and so on 26 March of the same year Porsche took its holding of
+Volkswagen shares to 30.9%. Porsche formally announced in a press statement that it
+did not intend to take over Volkswagen, but intended the move to avoid a competitor's
+taking a large stake and to stop hedge funds from dismantling VW.<ref>{{cite
+news|url=http://news.bbc.co.uk/1/hi/business/6494593.stm |title=Porsche triggers VW
+takeover bid |publisher=BBC News  |date=26 March 2007 |accessdate=27 September
+2010}}</ref> As expected, on 22 October 2007, the [[European Court of Justice]] ruled
+in agreement with Ruiz-Jarabo and the law was struck down.<ref>{{cite
+news|last=Landler |first=Mark
+|url=https://www.nytimes.com/2007/10/23/business/worldbusiness/23cnd-volks.html
+|title= Court Strikes Down "Volkswagen Law" |location=Germany |newspaper=[[New York
+Times]] |date=23 October 2007 |accessdate=26 August 2011}}</ref><ref name="Full Text
+of the Judgment">{{cite web|author=European Court of Justice|title=Judgment of the
+Court (Grand Chamber) in Case
+C-112/05|url=http://curia.europa.eu/juris/document/document.jsf?text=Volkswagen&docid=70710&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=66367#ctx1|publisher=European
+Court of Justice|accessdate=13 February 2012}}</ref> In October 2007, the [[European
+Court of Justice]] ruled that the VW law was illegal<ref>{{cite
+web|url=http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-02/cp070074en.pdf|title=THE
+VOLKSWAGEN LAW RESTRICTS THE FREE MOVEMENT OF CAPITAL|date=23 October
+2007|publisher=COURT OF JUSTICE OF THE EUROPEAN COMMUNITIES|accessdate=17 February
+2013}}</ref> because it was [[Protectionism|protectionist]]. At that time,
+[[Porsche]] held 31% of VW shares&nbsp;— although a smaller proportion of voting
+rights, due to the Volkswagen Law&nbsp;— and there had been speculation that Porsche
+would be interested in taking over VW if the law did not stand in its way. The court
+also prevented the government from appointing Volkswagen board members.<ref>{{cite
+news|url=http://news.bbc.co.uk/1/hi/business/7057815.stm|title='Volkswagen law' is
+ruled illegal|date=23 October 2007|publisher=BBC|accessdate=17 February 2013}}</ref>
+The German government then rewrote the Volkswagen law, only to be sued
+again.<ref>{{cite
+news|url=http://online.wsj.com/article/SB10001424052970204630904577057730270544356.html|title=EU
+To Sue Germany Again Over 'Volkswagen Law'|date=24 November 2011|work=Wall Street
+Journal|accessdate=17 February 2013}}</ref><ref>{{cite
+news|url=http://www.autoblog.com/2011/11/27/germany-in-court-again-over-vw-law-could-face-fines-of-nearly/|title=Germany
+in court again over "VW Law," could face fines of nearly
+$375,000/day|last=Ramsey|date=27 November 2011|work=Autoblog|accessdate=17 February
+2013}}</ref><ref>{{cite
+web|url=http://www.theparliament.com/latest-news/article/newsarticle/germany-sued-for-second-time-over-volkswagen-law/#.USD9cKUvmE0|title=Germany
+sued for second time over 'Volkswagen law'|date=25 November 2011|work=The
+Parliament|accessdate=17 February 2013}}</ref> In October 2013, the EU Court of
+Justice in Luxembourg ruled that the rewritten Volkswagen law "complied in full" with
+EU rules.<ref>{{cite
+news|url=https://www.bloomberg.com/news/2013-10-22/germany-wins-eu-court-fight-over-vw-law-legality-escapes-fines.html/|title=Germany
+Wins EU Court Battle Over VW Law, Escapes Fines |author=Bloomberg|date=22 October
+2013 |accessdate=5 February 2014}}</ref>
+
+On 26 October 2008, Porsche revealed its plan to assume control of VW. As of that
+day, it held 42.6% of Volkswagen's ordinary shares and stock options on another
+31.5%. Combined with the state of Lower Saxony's 20.1% stake, this left only 5.8% of
+shares on the market—mostly with index funds that could not legally sell.<ref>{{cite
+web|url=http://www.ft.com/cms/s/0/05a4df12-a396-11dd-942c-000077b07658.html
+|title=Financial Times &#124; Porsche plans to raise VW stake to 75%
+|work=[[Financial Times]]  |date=26 October 2008 |accessdate=27 September
+2010}}</ref> [[Hedge fund]]s desperate to cover their [[short (finance)|short]]
+positions forced Volkswagen stock above one thousand euros per share, briefly making
+it the world's largest company by [[market capitalisation]] on 28 October
+2008.<ref>{{cite
+web|url=http://www.ft.com/cms/s/0/05bbd234-a4d2-11dd-b4f5-000077b07658.html?nclick_check=1
+|title=VW vies for title of world's biggest company |work=Financial Times  |date=28
+October 2008 |accessdate=27 September 2010}}</ref> By January 2009, Porsche had a
+50.76% holding in Volkswagen AG, although the "Volkswagen Law" prevented it from
+taking control of the company.<ref name="bbc-porsche-jan-2009">{{Cite
+news|title=Porsche takes majority VW stake
+|url=http://news.bbc.co.uk/1/hi/health/7813073.stm|accessdate=16 June 2010|work=BBC
+News |date=6 January 2009}}</ref>
+
+On 6 May 2009, the two companies decided to join together, in a merger.
+
+On 13 August, Volkswagen Aktiengesellschaft's Supervisory Board signed the agreement
+to create an integrated automotive group with Porsche led by Volkswagen. The initial
+decision was for Volkswagen to take a 42.0% stake in Porsche AG by the end of 2009,
+and it would also see the family shareholders selling the automobile trading business
+of Porsche Holding Salzburg to Volkswagen.<ref>{{Cite
+news|url=http://news.taume.com/World-Business/Business-Finance/Volkswagen-to-take-a-42-0-percent-stake-in-Porsche-AG-11861|title=Volkswagen
+to take a 42.0 percent stake in Porsche AG|accessdate=22 January 2009|publisher=Taume
+News|date=14 August
+2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090818162016/http://news.taume.com/World-Business/Business-Finance/Volkswagen-to-take-a-42-0-percent-stake-in-Porsche-AG-11861|archivedate=18
+August 2009|df=dmy-all}}</ref>  In October 2009 however, Volkswagen announced that
+its percentage in Porsche would be 49.9% for a cost of €3.9&nbsp;billion (the 42.0%
+deal would have cost €3.3&nbsp;billion).<ref>{{Cite
+news|url=http://news.bbc.co.uk/2/hi/business/8317010.stm|title=VW to buy half of
+Porsche by 2010|accessdate=20 October 2009 |publisher=BBC News |date=20 October
+2009}}</ref> On 1 March 2011, Volkswagen has finalized the purchase of Porsche
+Holding Salzburg (PHS), Austria's leading specialty automobile distributor, for
+€3.3&nbsp;billion ($4.55&nbsp;billion).<ref>{{cite
+web|url=http://www.industryweek.com/articles/vw_buys_porsche_sales_unit_24005.aspx?SectionID=4|title=VW
+purchase Porsche Holding Salzburg (PHS)|accessdate=1 March 2011
+|work=IndustryWeek|date=1 March 2011}}</ref>
+
+===AutoMuseum===
+Since 1985, Volkswagen has run the Volkswagen AutoMuseum in Wolfsburg, a museum
+dedicated specifically to the history of Volkswagen.<ref>{{cite web
+|url=http://automuseum.volkswagen.de/index.php?id=2&L=1 |title=:: Volkswagen
+AutoMuseum :: About us |publisher=Automuseum.volkswagen.de |date= |accessdate=26
+August 2011 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20110815195037/http://automuseum.volkswagen.de/index.php?id=2&L=1
+|archivedate=15 August 2011 |df=dmy-all }}</ref> In addition to visiting exhibits in
+person, owners of vintage Volkswagens anywhere in the world may order what the museum
+refers to as a "Birth Certificate" for a set fee of €50—this formal "Zertifikat"
+indicates basic information known at the time of manufacture (colors, options, port
+of destination, etc.).<ref>{{cite web
+|url=http://automuseum.volkswagen.de/urkunden.html?&L=1 |title=:: Volkswagen
+AutoMuseum :: Certificate Generator |publisher=Automuseum.volkswagen.de |date=
+|accessdate=26 August 2011 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20111011211316/http://automuseum.volkswagen.de/urkunden.html?&L=1
+|archivedate=11 October 2011 |df=dmy-all }}</ref>
+
+===Global sales figures, 2006-2016===
+{| class="wikitable"
+|-
+! Year
+! Global sales (in
+millions)<ref>[https://www.statista.com/statistics/272049/worldwide-vehicle-sales-of-volkswagen-since-2006/
+Volkswagen's worldwide vehicle sales from 2006 to 2016 (in millions)] Statista – the
+statistics portal</ref>
+|-
+| 2006
+| 5.7
+|-
+| 2007
+| 6.2
+|-
+| 2008
+| 6.3
+|-
+| 2009
+| 6.3
+|-
+| 2010
+| 7.3
+|-
+| 2011
+| 8.4
+|-
+| 2012
+| 9.3
+|-
+| 2013
+| 9.7
+|-
+| 2014
+| 10.2
+|-
+| 2015
+| 10.0
+|-
+| 2016
+| 10.3
+|}
+
+==Current models==
+{| class="wikitable"
+|-
+| [[Volkswagen Up!|Up!]]
+| [[File:2012 Volkswagen up! (AA MY13) 5-door hatchback (2015-11-11)
+01.jpg|frameless|upright=0.4]]
+| {{nowrap|City car}}
+|
+* Hatchback
+|-
+| [[Volkswagen Gol|Gol]]
+| [[File:Volkswagen Gol Mk6 Sedan.jpg|frameless|upright=0.4]]
+| {{nowrap|City car}}
+|
+* Hatchback
+* Sedan
+* coupé utility
+|-
+| [[Volkswagen Ameo|Ameo]]
+| 
+| {{nowrap|City car}}
+|
+* Sedan
+|-
+| [[Volkswagen Fox|Fox (South America)]]
+| [[File:Volkswagen Fox 2015 in Punta del Este 01.JPG|frameless|upright=0.4]]
+| {{nowrap|Supermini}}
+|
+* Hatchback
+* Estate
+|-
+| [[Volkswagen Polo|Polo]]
+| [[File:2014 Volkswagen Polo (6R MY15) 66TSI Trendline 5-door hatchback (2015-07-03)
+01.jpg|frameless|upright=0.4]]
+| {{nowrap|Supermini}}
+|
+* Hatchback
+* Coupé
+* Estate
+|-
+| [[Volkswagen Vento|Vento]]
+| [[File:Vento 2015 Highline.png|frameless|upright=0.4]]
+| {{nowrap|Subcompact car}}
+|
+* Sedan
+|-
+| [[Volkswagen Beetle (A5)|Beetle]]
+| [[File:2012 Volkswagen Beetle -- NHTSA 2.jpg|frameless|upright=0.4]]
+| {{nowrap|Small family car}}
+|
+* Hatchback
+* Convertible 
+|-
+| [[Volkswagen Golf|Golf]]
+| [[File:VW Golf Variant 1.4 TSI BlueMotion Technology Highline (VII, Facelift) –
+Frontansicht, 21. April 2017, Düsseldorf.jpg|frameless|upright=0.4]]
+| {{nowrap|Small family car}}
+| 
+* Hatchback
+* Estate
+* Convertible
+|-
+| [[Volkswagen Jetta|Jetta]]
+| [[File:2015 Volkswagen Jetta (1B MY15) 118TSI Comfortline sedan (2015-08-07)
+01.jpg|frameless|upright=0.4]]
+| {{nowrap|Small family car}}
+| 
+* Sedan
+|-
+| [[Volkswagen Arteon|Arteon]]
+| [[File:2017-03-07_Geneva_Motor_Show_0829.JPG|frameless|upright=0.4]]
+| {{nowrap|Large family car}}
+| 
+* Sedan
+|-
+| [[Volkswagen Passat|Passat]]
+| [[File:VW Passat B8 Limousine 2.0 TDI Highline.JPG|frameless|upright=0.4]]
+| {{nowrap|Large family car}}
+| 
+* Sedan
+* Estate
+* Crossover ('''Alltrack''')
+|-
+| [[Volkswagen Scirocco|Scirocco]]
+| [[File:VW Scirocco 1.4 TSI BlueMotion Technology Sport (III, Facelift) –
+Frontansicht, 21. April 2017, Düsseldorf.jpg|frameless|upright=0.4]]
+| {{nowrap|Compact sports car}}
+|
+* Coupe
+|-
+| [[Volkswagen Touran|Touran]]
+| [[File:VW Touran II-2.jpg|frameless|upright=0.4]]
+| {{nowrap|Compact MPV}}
+|
+* MPV
+|-
+| [[Volkswagen Sharan|Sharan]]
+| [[File:VW Sharan II 2.0 TDI Reflexsilber.JPG|frameless|upright=0.4]]
+| {{nowrap|Large MPV}}
+|
+* MPV
+|-
+|-
+| [[Volkswagen T-Roc|T-Roc]]
+| 
+| {{nowrap|City crossover SUV}}
+| 
+* SUV
+|-
+| [[Volkswagen Tiguan|Tiguan]]
+| [[File:VW Tiguan 2.0 TDI 4MOTION R-Line (II) – Frontansicht (1), 19. September
+2015, Frankfurt.jpg|frameless|upright=0.4]]
+| {{nowrap|Small crossover SUV}}
+| 
+* SUV
+|-
+| [[Volkswagen Atlas|Atlas]]
+| [[File:Volkswagen Atlas 2017 SUV.jpg|frameless|upright=0.4]]
+| {{nowrap|Large crossover SUV}}
+| 
+* SUV
+|-
+| [[Volkswagen Touareg|Touareg]]
+| [[File:VW Touareg 3.0 TDI V6 SCR 4Motion Facelift.JPG|frameless|upright=0.4]]
+| {{nowrap|Large crossover SUV}}
+|
+* SUV
+|}
+
+===GTI models===
+{| class="wikitable"
+|-
+| [[Volkswagen Polo GTI#Mk5 Polo GTI|Polo GTI]]
+| [[File:VW Polo GTI (V) – Frontansicht, 7. März 2011,
+Mettmann.jpg|centre|frameless|upright=0.4]]
+| Supermini
+|
+* Hatchback
+|-
+| [[Volkswagen Golf|Golf GTI]]
+
+| [[File:Volkswagen Golf GTi 2015 (16460156619).jpg|centre|frameless|upright=0.4]]
+| Small family car
+|
+* Hatchback
+|}
+
+===Electric models===
+
+====GTE models====
+{{See also|Volkswagen XL1}}
+
+GTE are [[plug-in hybrid electric vehicle]]s.<ref>{{cite
+web|url=http://formtrends.com/vw-head-of-design-on-the-cross-coupe-gte-concept/#.VbcaXfIyeVU|title=What
+the Cross Coupe GTE Concept Means for Volkswagen « Form
+Trends|website=Formtrends.com|accessdate=22 September 2015}}</ref> The GTE's engine,
+electric motor, and transmission are fully shared with the [[Audi A3 Sportback
+e-tron]]:<ref name="caranddriver.com">{{cite
+web|url=http://www.caranddriver.com/reviews/2015-volkswagen-golf-gte-review|title=2015
+Volkswagen Golf GTE|website=Caranddriver.com|accessdate=22 September 2015}}</ref>
+{| class="wikitable"
+|-
+| [[Volkswagen Golf GTE|Golf GTE]]
+| [[File:Black VW Golf GTE charging fl.jpg|centre|frameless|upright=0.4]]
+| Small family car
+|
+* [[Hatchback]]
+| 1.4-liter and an electric motor;<br/>can travel for a full 50&nbsp;km on
+electricity only.<ref name="caranddriver.com"/>
+|-
+| [[Volkswagen Passat GTE|Passat GTE]]
+| [[File:Volkswagen Passat GTE Variant - Mondial de l'Automobile de Paris 2014 -
+003.jpg|centre|frameless|upright=0.4]]
+| Large family car
+|
+* [[Station wagon|Estate]]
+| 
+|}
+
+====e-models====
+VW e-models are [[all-electric vehicle]]s.<ref>{{cite
+web|url=http://emobility.volkswagen.com/int/en/private/technology.html|title=Electric
+mobility: the technology of electric cars -
+Volkswagen|website=Emobility.volkswagen.com|accessdate=22 September 2015}}</ref>
+{| class="wikitable"
+|-
+| [[Volkswagen e-Up!|e-up!]]
+| [[File:VW e-up! at Hannover Messe.jpg|centre|frameless|upright=0.4]]
+|-
+| [[Volkswagen e-Golf|e-Golf]]
+| [[File:VW e-Golf LA Auto Show 2013.jpg|centre|frameless|upright=0.4]]
+|}
+
+===R models===
+R models are exotic and sport vehicles.
+{| class="wikitable"
+|-
+| [[Volkswagen Golf Mk6#Golf R|Golf R]]
+| [[File:VW Golf R (VII) – Frontansicht, 17. Juni 2014,
+Düsseldorf.jpg|centre|frameless|upright=0.4]]
+| Small sports car
+|
+* Hatchback
+|-
+| [[VW Scirocco R|Scirocco R]]
+| [[File:Volkswagen Scirocco R (15977639104).jpg|centre|frameless|upright=0.4]]
+| Small sports car
+|
+* Coupé
+|}
+
+==Historic models==
+{| class="wikitable"
+|-
+|[[Volkswagen Kübelwagen|Kübelwagen]]
+|[[File:VW Kuebelwagen 1.jpg|centre|frameless|upright=0.4]]
+|1940–1945
+|-
+|[[Volkswagen Schwimmwagen|Schwimmwagen]]
+|[[File:VW Schwimmwagen 1.jpg|centre|frameless|upright=0.4]]
+|1942–1944
+|-
+|[[Volkswagen Type 1|Sedan, "Beetle, Bug"]]
+|[[File:Glj01.jpg|centre|frameless|upright=0.4]]
+|1938 - 2003
+|-
+|[[Volkswagen Karmann Ghia|Karmann Ghia]]
+|[[File:MarignyMay07KarmannGhiaFrontSide.jpg|centre|frameless|upright=0.4]]
+|1955–1974
+|-
+|[[Volkswagen Type 3|1500/1600]]
+|[[File:VW Typ 3 front 20080227.jpg|centre|frameless|upright=0.4]]
+|1961–1973
+|-
+|[[Volkswagen 181|181]]
+|[[File:Vw 181 v sst.jpg|centre|frameless|upright=0.4]]
+|1969–1983
+|-
+|[[Volkswagen Country Buggy|Country Buggy]]
+|[[File:Volkswagen Country Buggy.jpg|centre|frameless|upright=0.4]]
+|1967–1969
+|-
+|[[Volkswagen 411|411]]
+|[[File:Volkswagen 411 Front view Essex.jpg|centre|frameless|upright=0.4]]
+|1968–1972
+|-
+|[[Volkswagen K70|K70]]
+|[[File:1971 VW K70 L Front.JPG|centre|frameless|upright=0.4]]
+|1970–1974
+|-
+|[[Volkswagen 412|412]]
+|[[File:Typ 4 412 Variant aus Offenbach.JPG|centre|frameless|upright=0.4]]
+|1972–1974
+|-
+|[[Volkswagen Scirocco|Scirocco]]
+|[[File:1974 VOLKSWAGEN SCIROCCO.jpg|centre|frameless|upright=0.4]]
+|1974–1981
+|-
+|[[Volkswagen Derby|Derby]]
+|[[File:VW Derby CL front.jpg|centre|frameless|upright=0.4]]
+|1977–1981
+|-
+|[[Volkswagen Corrado|Corrado]]
+|[[File:VW Corrado 16 V (2010-04-12) ret2.jpg|centre|frameless|upright=0.4]]
+|1988–1995
+|-
+|[[Volkswagen Lupo|Lupo]]
+|[[File:Vw lupo v sst.jpg|centre|frameless|upright=0.4]]
+|1998–2004
+|-
+|[[Volkswagen New Beetle|New Beetle]]
+|[[File:2006-2007 Volkswagen New Beetle.jpg|centre|frameless|upright=0.4]]
+|1998–2010
+|-
+|[[Volkswagen Golf Plus|Golf +]]
+|[[File:VW Golf Plus 2.0 TDI Facelift front-1 20100710.jpg|frameless|upright=0.4]]
+|2004-2009
+|-
+|[[Volkswagen Routan|Routan]]
+|[[File:2009 Volkswagen Routan SE.jpg|centre|frameless|upright=0.4]]
+|2009-2013
+|-
+|[[Volkswagen Eos|Eos]]
+|[[File:2012 Volkswagen Eos -- 04-01-2011 1.jpg|frameless|upright=0.4]]
+|2006-2015
+|-
+|[[Volkswagen Phaeton|Phaeton]]
+|[[File:VW Phaeton 3.0 V6 TDI 4MOTION (2. Facelift) – Frontansicht, 10. August 2011,
+Düsseldorf.jpg|frameless|upright=0.4]]
+|2003-2016
+|-
+|[[Volkswagen CC|CC]]
+|[[File:Volkswagen Passat CC 2.0 TSi 2010
+(14168908053).jpg|centre|frameless|upright=0.4]]
+|2008-2017
+|}
+
+==Electric and alternative fuel vehicles==
+
+===Neat ethanol vehicles===
+[[File:Bundesarchiv B 145 Bild-F053242-0034, Hannover, Messe.jpg|thumb|right| VW neat
+[[ethanol fuel|ethanol]] prototype car developed by [[Volkswagen do Brasil]] in
+1978.]]
+
+[[Volkswagen do Brasil]] produced and sold neat ethanol-powered, ([[Neat alcohol
+fuel|E100 only]]), vehicles in Brazil, and production was discontinued only after
+they were supplanted by more modern [[flexible-fuel vehicle|Flex Fuel]] technology.
+As a response to the [[1973 oil crisis]], the Brazilian government began promoting
+bioethanol as a fuel, and the [[Pro-Álcool|National Alcohol Program]]
+-''Pró-Álcool''- ({{lang-pt|Programa Nacional do Álcool}}) was launched in 1975.<ref
+name="Bastos">{{cite web|url=http://www.energytribune.com/articles.cfm?aid=534
+|author=Milton Briquet Bastos |title=Brazil's Ethanol Program – An Insider's View
+|publisher=Energy Tribune |date=20 June 2007 |accessdate=14 August 2008 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20110710193215/http://www.energytribune.com/articles.cfm?aid=534
+|archivedate=10 July 2011 }}</ref><ref name="Veja1979" /><ref name="SeatleT" />
+Compelled by the [[1979 energy crisis]], and after development and testing with
+government fleets by the [[Brazilian General Command for Aerospace Technology|CTA]]
+at [[São José dos Campos]], and further testing of several prototypes developed by
+the four local carmakers, including Volkswagen do Brasil, neat ethanol vehicles were
+launched in the Brazilian market.<ref name="Bastos" /><ref name="Veja1979">{{cite web
+|url=http://veja.abril.com.br/idade/exclusivo/petroleo/130679.html |title=O petróleo
+da cana |author=Revista Veja |publisher=[[Editora Abril]] |date=13 June 1979
+|accessdate=29 November 2008 |language=Portuguese |authorlink=Revista Veja
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20081006165850/http://veja.abril.com.br/idade/exclusivo/petroleo/130679.html
+|archivedate=6 October 2008 |df=dmy-all }}</ref> Gasoline engines were modified to
+support [[hydrous]] ethanol characteristics and changes included [[compression
+ratio]], amount of fuel injected, replacement of materials that would get corroded by
+the contact with ethanol, use of colder [[spark plugs]] suitable for dissipating heat
+due to higher flame temperatures, and an auxiliary cold-start system that injects
+gasoline from a small tank in the engine compartment to help starting when cold.
+Within six years, around 75% of all Brazilian passenger cars were manufactured with
+ethanol engines.<ref name="Bastos" /><ref name="Lemos">{{cite web|
+url=http://www.icis.com/Articles/2007/02/12/4500680/the-brazilian-ethanol-model.html
+| author=William Lemos |title=The Brazilian ethanol model |publisher=ICIS news |
+date=5 February 2007 | accessdate=14 August 2008 }}</ref>
+
+Production and sales of neat ethanol vehicles tumbled beginning in 1987 owing to
+several factors, including a sharp decline in gasoline prices as a result of the
+[[1980s oil glut]], and high sugar prices in the world market, shifting sugarcane
+ethanol production from fuel to sugar. By mid-1989, a shortage of ethanol fuel supply
+in the local market left thousands of vehicles in line at gas stations or out of fuel
+in their garages, forcing consumers to abandon ethanol vehicles.<ref
+name="SeatleT">{{cite
+web|url=http://seattletimes.nwsource.com/html/nationworld/2002339093_brazilfuel17.html
+|publisher=The Seattle Times |title=Brazil's ethanol effort helping lead to oil
+self-sufficiency |author=Marla Dickerson |date=17 June 2005 |accessdate=29 November
+2008 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20081227203948/http://seattletimes.nwsource.com/html/nationworld/2002339093_brazilfuel17.html
+|archivedate=27 December 2008 |df= }}</ref><ref name="Veja1989">{{cite
+web|url=http://veja.abril.com.br/arquivo_veja/capa_24051989.shtml |title=Um sonho
+corroído |author=Revista Veja |publisher=[[Editora Abril]] |date=24 May 1989
+|accessdate=29 November 2008 |language=Portuguese |authorlink=Revista Veja
+|deadurl=yes
+|archiveurl=https://web.archive.org/web/20090208192704/http://veja.abril.com.br/arquivo_veja/capa_24051989.shtml
+|archivedate=8 February 2009 |df= }}</ref>
+
+===Flexible-fuel vehicles===
+[[File:Brazilian 2003 VW Gol 1.6 Total Flex.jpg|thumb|right]]
+
+The 2003 [[Volkswagen Gol|VW Gol 1.6 Total Flex]] was the first full flexible-fuel
+vehicle launched in Brazil, capable of running on any blend of gasoline and [[Neat
+alcohol fuel|E100]]. In March of that year, on its fiftieth anniversary, [[Volkswagen
+do Brasil]] launched in the local market the [[Volkswagen Gol|Gol]] 1.6 Total Flex,
+the first Brazilian commercial [[flexible fuel vehicle]] capable of running on any
+mix of [[E20 fuel|E20-E25]] gasoline and up to 100% [[hydrous]] ethanol fuel
+([[Common ethanol fuel mixtures#E2100|E100]]).<ref name="SusEthanol">{{Cite
+journal|author1=Goettemoeller, Jeffrey |author2=Adrian Goettemoeller | title =
+Sustainable Ethanol: Biofuels, Biorefineries, Cellulosic Biomass, Flex-Fuel Vehicles,
+and Sustainable Farming for Energy Independence | year = 2007| publisher=Prairie Oak
+Publishing, Maryville, Missouri |pages=56–61 | postscript = <!--None--> |
+isbn=978-0-9786293-0-4}}</ref><ref name="autonews.com">{{cite
+web|url=http://www.autonews.com/apps/pbcs.dll/article?AID=/20060323/REUTERS/60323043/1111
+|title=Volkswagen to stop making gas-only cars for Brazil |publisher=Automotive News
+|date=23 March 2006 |accessdate=18 October 2008 }} {{Dead link|date=September
+2010|bot=H3llBot}}</ref><ref>{{cite
+web|url=http://www.vwbr.com.br/VWBrasil/Historia/A-nova-Volkswagen.aspx |title=A Nova
+Volkswagen |publisher=Volkswagen do Brasil |accessdate=18 October 2008
+|language=Portuguese
+|archiveurl=https://web.archive.org/web/20080915184129/http://www.vwbr.com.br/VWBrasil/Historia/A-nova-Volkswagen.aspx
+<!--Added by H3llBot--> |archivedate=15 September 2008}}</ref><ref>{{cite
+web|url=http://www.parana-online.com.br/canal/automoveis/news/170341/
+|title=Volkswagen lança Golf Total Flex 1.6
+ |publisher=ParanaOnline |date=30 March 2006 |accessdate=18 October 2008
+|language=Portuguese }}</ref> After the neat ethanol fiasco, consumer confidence in
+ethanol-powered vehicles was restored, allowing a rapid adoption of the flex
+technology. This was facilitated by the fuel distribution infrastructure already in
+place throughout Brazil, with more than 30 thousand fueling stations, a heritage of
+the ''Pró-Álcool'' program<ref>{{cite
+web|url=http://www.amda.org.br/assets/files/gASOLINA.pdf |format=PDF |author1=Henry
+Xavier Corseuil |author2=Marcus Sal Molin Marins |lastauthoramp=yes
+|title=Contaminação de Águas Subterrâneas por Derramamentos de Gasolina: O problema é
+grave? |publisher=Amda.org |year=1997 |language=Portuguese |accessdate=13 September
+2008 |df= }}{{dead link|date=June 2017|bot=medic}}{{cbignore|bot=medic}}</ref><ref
+name="BRgas08">{{cite
+web|url=http://www.gazeta.com.br/GZM_News.aspx?Parms=2108086,604,1 |title=Margem
+estreita não intimida pequenas |publisher=Gazeta Mercantil |author=Roberta Scrivano
+|date=7 October 2008 |accessdate=26 November 2008 |language=Portuguese }}{{dead
+link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Owing to the success and rapid consumer acceptance of the flex-fuel versions, by 2005
+VW had sold 293,523 flex-fuel cars and light-duty trucks, and only 53,074
+gasoline-only automobiles,<ref name="ANFAVEA05">{{cite web|
+url=http://www.anfavea.com.br/tabelas2005/autoveiculos/tabela08_vendas.pdf|format=PDF|
+title=Tabela 08 – Vendas Atacado Mercado Interno por Tipo e Empresa – Combustível
+Flex Fuel – 2005 |publisher=ANFAVEA – Associação Nacional dos Fabricantes de Veículos
+Automotores (Brazil)|accessdate=16 April 2009 |language=Portuguese}}  ''See Table 08
+for flex-fuel sales and Table 07 for gasoline sales''.</ref> jumping to 525,838
+flex-fuel vehicles and only 13,572 gasoline-only cars and 248 gasoline-only light
+trucks in 2007,<ref name="ANFAVEA07">{{cite web|
+url=http://www.anfavea.com.br/tabelas2007/autoveiculos/tabela08_vendas.pdf|format=PDF|
+title=Tabela 08 – Vendas Atacado Mercado Interno por Tipo e Empresa – Combustível
+Flex Fuel – 2007 |publisher=ANFAVEA – Associação Nacional dos Fabricantes de Veículos
+Automotores (Brazil)|accessdate=16 April 2009 |language=Portuguese}}  ''See Table 08
+for flex-fuel sales and Table 07 for gasoline sales''.</ref> and reaching new car
+sales of 564,959 flex-fuel vehicles in 2008, representing 96% of all new cars and
+light-duty trucks sold in that year.<ref name="ANFAVEA08">{{cite web|
+url=http://www.anfavea.com.br/tabelas2008/autoveiculos/tabela08_vendas.pdf|format=PDF|
+title=Tabela 08 – Vendas Atacado Mercado Interno por Tipo e Empresa – Combustível
+Flex Fuel – 2008 |publisher=ANFAVEA – Associação Nacional dos Fabricantes de Veículos
+Automotores (Brazil)|accessdate=16 April 2009 |language=Portuguese}}  ''See Table
+08''.</ref> VW do Brasil stopped manufacturing gasoline-only vehicles models for the
+local market in 2006,<ref name="autonews.com" /> and all of the remaining
+gasoline-only Volkswagen models sold in Brazil are imported. The flex-fuel models
+currently produced for the local market are the Gol, Fox, CrossFox, Parati, Polo
+Hatch, Polo Sedan, Saveiro, Golf, and Kombi.<ref>{{cite
+web|url=http://www.norpave.com.br/site/index.php?modulo=detalhe_noticia&id=24
+|title=VW completa 55 anos como maior montadora do País |publisher=Norpave VW
+|date=25 March 2008 |accessdate=18 April 2009 |language=Portuguese}} {{Dead
+link|date=September 2010|bot=H3llBot}}</ref> By March 2009, Volkswagen do Brasil had
+attained the milestone mark of two million flex-fuel vehicles produced since
+2003.<ref>{{cite
+web|url=http://autobrasil.wordpress.com/2009/03/25/vw-dois-milhoes-de-carros-flex/|title=VW:
+dois milhões de carros flex |publisher=Auto Brasil |date=25 March 2009 |accessdate=19
+April 2009|language=Portuguese}}</ref><ref>{{cite
+web|url=http://www.noticiasautomotivas.com.br/volkswagen-atinge-2-milhoes-de-carros-flex-produzidos-no-brasil/|title=Volkswagen
+atinge 2 milhões de carros Flex produzidos no Brasil |publisher=Noticias Automotivas
+|date=24 March 2009 |accessdate=18 April 2009 |language=Portuguese}}</ref>
+
+===Hybrid vehicles===
+[[File:VW Jetta Hybrid WAS 2012 0710.JPG|thumb|left|The Volkswagen Jetta Hybrid gets
+48 mpg highway.]]
+
+Volkswagen and [[Sanyo]] have teamed up to develop a battery system for [[hybrid
+electric vehicle|hybrid cars]].<ref>{{cite
+web|url=http://www.theautochannel.com/news/2006/02/03/209275.html |title=Volkswagen
+and Sanyo Team Up To Develop Hybrid Battery Systems |publisher=Theautochannel.com
+|accessdate=27 September 2010}}</ref> Volkswagen head [[Martin Winterkorn]] has
+confirmed the company plans to build compact hybrid electric vehicles. He has stated
+"There will definitely be compact hybrid models, such as [[Volkswagen Polo|Polo]] and
+[[Volkswagen Golf|Golf]], and without any great delay", with gasoline and [[diesel
+engine|diesel]] power. For example, Golf is the ideal model to go hybrid as the Golf
+1.4 TSI was recently awarded the "Auto Environment Certificate" by the Oko-Trend
+Institute for Environmental Research, and was considered as one of the most
+environmentally friendly vehicles of 2007.<ref>{{cite
+web|url=http://www.green-hybrid-cars.com/volkswagen-hybrid.html |title="Volkswagen
+Hybrid: Runaway Winner". Eco-Friendly Hybrid Cars, 2 May 2008
+|publisher=Green-hybrid-cars.com |accessdate=27 September 2010}}</ref>  Also underway
+at Volkswagen's [[Braunschweig]] [[Research and development|R&D]] facilities in
+Northern Germany is a hybrid version of the next-generation [[Volkswagen
+Touareg|Touareg]].<ref>{{cite
+web|url=http://www.edmunds.com/insideline/do/News/articleId=119559 |title=Compact
+Hybrid Coming From Volkswagen |publisher=Edmunds.com |date=22 January 2009
+|accessdate=27 September 2010 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20090217073817/http://www.edmunds.com/insideline/do/News/articleId%3D119559
+|archivedate=17 February 2009 |df= }}</ref>
+
+VW intends all future models to have the hybrid option.  "Future VW models will
+fundamentally also be constructed with hybrid concepts," VW head of development
+Ulrich Hackenberg told ''Automobilwoche'' in an interview. Hackenberg mentioned that
+the car based on the [[Volkswagen up!|Up!]] concept seen at [[Frankfurt Motor
+Show]],<ref>{{cite web|url=http://www.edmunds.com/insideline/do/News/articleId=122568
+|title=2007 Frankfurt Auto Show: Volkswagen Up! |publisher=Edmunds.com |date=11
+September 2007 |accessdate=27 September 2010 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20090301021345/http://www.edmunds.com/insideline/do/News/articleId%3D122568
+|archivedate=1 March 2009 |df= }}</ref> as well as all future models, could be
+offered with either full or partial hybrid options. The rear-engine up! will go into
+production in 2011. Nothing has been said about [[plug-in hybrid]]
+options.<ref>{{cite
+web|url=http://www.egmcartech.com/2007/09/24/report-all-volkswagen-models-to-have-hybrid-option/
+|title=Report: All Volkswagen models to have hybrid option |publisher=eGMCarTech
+|date=24 September 2007 |accessdate=27 September 2010}}</ref>
+
+Volkswagen announced at the [[Geneva Motor Show#010|2010 Geneva Motor Show]] the
+launch of the 2012 [[Volkswagen Touareg#Touareg V6 TSI Hybrid (2009)|Touareg
+Hybrid]], scheduled for 2011.<ref>{{Cite
+news|url=http://wheels.blogs.nytimes.com/2010/03/05/geneva-auto-show-2011-vw-touareg-and-2012-touareg-hybrid/?scp=1&sq=2011%20Volkswagen%20Touareg%20Hybrid&st=cse|title=Geneva
+Auto Show: 2011 VW Touareg and 2012 Touareg Hybrid|author=Nick Kurczewski|work=New
+York Times |date=5 March 2010|accessdate=26 March 2010}}</ref><ref>{{Cite
+news|url=http://www.motortrend.com/roadtests/suvs/1003_2011_volkswagen_touareg_hybrid_drive/index.html
+|title=First Drive: 2011 Volkswagen Touareg|author=Scott Evans|publisher=[[Motor
+Trend]]|date=March 2010|accessdate=26 March 2010}}</ref> VW also announced plans to
+introduce [[diesel fuel|diesel]]-electric hybrid versions of its most popular models
+in 2012, beginning with the new [[Volkswagen Jetta|Jetta]], followed by the
+[[Volkswagen Golf|Golf Hybrid]] in 2013 together with hybrid versions of the
+[[Volkswagen Polo|Passat]].<ref name=Parkers>{{cite
+web|url=http://www.parkers.co.uk/News/News/VW-hybridelectric-cars/ |title=VW to
+launch hybrid Jetta in 2012 |publisher=Parker's |accessdate=26 March 2010
+|deadurl=yes
+|archiveurl=https://archive.is/20130114061853/http://www.parkers.co.uk/News/News/VW-hybridelectric-cars/
+|archivedate=14 January 2013 |df= }}</ref><ref name=AECs>{{cite
+web|url=http://www.allcarselectric.com/blog/1043442_vw-to-focus-on-several-electric-and-hybrid-vehicle-launches-including-golf-jetta-passat-and-more
+|title=VW To Focus on Several Electric and Hybrid Vehicle Launches Including Golf,
+Jetta, Passat and More |author=Motor Authority|publisher=All Cars Electric|date=17
+March 2010|accessdate=26 March 2010}}</ref> In 2012, the Volkswagen Jetta Hybrid set
+the world record to become the fastest hybrid car at 187&nbsp;mph.
+
+===Plug-in electric vehicles===
+
+In November 2009, Volkswagen announced it has hired Karl-Thomas Neumann as its group
+chief officer for [[electric traction]].<ref>{{cite
+web|url=http://rumors.automobilemag.com/6605889/news/volkswagen-hires-new-electric-vehicle-chief/index.html
+|title=Volkswagen Hires New Electric Vehicle Chief – Automotive News & Car Rumors at
+Automobile Magazine |publisher=Rumors.automobilemag.com |date=12 November 2009
+|accessdate=22 December 2009}}</ref> VW's Chief of research, Jürgen Leohold, said in
+2010 the company has concluded [[fuel-cell vehicle|hydrogen fuel-cell cars]] are not
+a viable option.<ref>{{cite web|url=http://www.calcars.org/calcars-news/876.html
+|title=Audi's PHEV Concept; Volkswagen Research Chief Criticizes Fuel Cells
+|publisher=Calcars.org |accessdate=27 September 2010}}</ref><ref>{{cite
+web|url=http://www.autocar.co.uk/News/NewsArticle/Volkswagen-Concepts/229005/
+|title=Fuel cell cars won't save the world |publisher=Autocar.co.uk |date=6 November
+2007 |accessdate=27 September 2010}}</ref>
+
+[[File:Black VW Golf GTE charging fl.jpg|thumbnail|[[Volkswagen Golf GTE]] [[plug-in
+hybrid]] charging.]]
+
+{{As of|2016|05}}, the [[Volkswagen Group]] offers for retails customers nine
+[[plug-in electric car]]s, of which, three are [[all-electric car]]s: the
+[[Volkswagen e-Up!]], [[Volkswagen e-Golf|e-Golf]] and [[Audi R8 e-tron]], and six
+are [[plug-in hybrid]]s: the [[Volkswagen Golf GTE]], [[Volkswagen Passat GTE|Passat
+GTE]], [[Audi A3 Sportback e-tron]], [[Audi Q7 e-tron|Q7 e-tron quattro]], [[Porsche
+Panamera S E-Hybrid]] and [[Porsche Cayenne S E-Hybrid|Cayenne S E-Hybrid]].<ref
+name=VWPEVs>{{cite news |
+url=http://www.autonews.com/article/20160529/OEM05/305309985/vw-goal:-1-million-electrified-vehicles-by-2025
+| title=VW goal: 1 million electrified vehicles by 2025 | first=Christiaan | last=
+Hetzner | work=[[Automotive News]] | date=2016-05-29 | accessdate=2016-05-29}}</ref>
+Also two limited production plug-in hybrids were manufactured beginning in 2013, the
+[[Volkswagen XL1]] (250 units) and the [[Porsche 918 Spyder]] (918 units).<ref>{{cite
+news|url=
+http://www.automobilwoche.de/article/20131009/NACHRICHTEN/131009943/vergabe-der-kleinstserie-vw-lenkt-xl-1-fans-auf-zielgerade#.UmvjOHCkpwt
+|title=Vergabe der Kleinstserie: VW lenkt XL-1-Fans auf
+Zielgerade|language=German|trans-title=Allocation of micro series: VW XL1 draws fans
+to finish line|author=Henning
+Kroghhkrogh|work=Automobilwoche|date=2013-10-09|accessdate=2013-10-26}}</ref><ref>{{cite
+web|url= http://www.autoblog.com/2012/10/01/2014-porsche-918-spyder-deep-dive-review/
+|title=2014 Porsche 918 Spyder|author=Michael Harley |publisher=[[Autoblog.com]]
+|date=2012-10-01 |accessdate=2012-10-14}}</ref> Total cumulative sales of all
+Volkswagen brand [[electric vehicle|electrified cars]] since the start of their
+respective production is expected to reach about 103,000 by the end of 2016.<ref
+name=VWPEVs/>
+
+In order to comply with increasingly strict carbon dioxide emission limits in major
+markets, the VW Group expects to sell about one million all-electric and plug-in
+hybrid vehicles a year worldwide by 2025. The Group plans to expand its plug-in range
+with 20 new pure electric and plug-in hybrid cars, including two cars to compete with
+[[Tesla Motors]], the [[Porsche Mission E]] all-electric car and the [[Audi e-tron]]
+quattro, which is expected to become the brand's first mass production electric
+vehicle. According to Thomas Ulbrich, VW brand production chief, the carmaker has
+capacitty to build as many as 75,000 battery electric and plug-in hybrids a year if
+demand rises. Volkswagen announced in October 2015 that "it will develop a modular
+architecture for battery electric cars, called the MEB. The standardized system will
+be designed for all body structures and vehicle types and will allow the company to
+build emotionally appealing EVs with a range of up to
+{{convert|310|mi|abbr=on}}."<ref name=VWPEVs/> In June 2016, VW launched a program to
+develop 30 all-electric cars in 10 years, and sell 2-3 million electric cars per year
+by 2025.<ref>{{cite web
+|url=http://www.volkswagenag.com/content/vwcorp/info_center/en/news/2016/06/2025.html
+|title=Archived copy |accessdate=2016-06-20 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20160621062535/http://www.volkswagenag.com/content/vwcorp/info_center/en/news/2016/06/2025.html
+|archivedate=21 June 2016 |df=dmy-all }} </ref> Due to lower manpower requirements
+for electric motors than for piston engines, VW expects a gradual workforce reduction
+as numbers of electric cars increase.<ref>{{cite
+web|url=https://www.reuters.com/article/us-volkswagen-jobs-idUSKCN12S1QP |title=VW HR
+chief says expects five-digit number of job cuts: FAZ|date=29 October
+2016|work=Reuters|accessdate=1 November 2016}}</ref><ref>{{cite web|url=
+http://www.faz.net/aktuell/wirtschaft/neue-mobilitaet/vw-personalchef-elektromobilitaet-wird-zehntausende-jobs-kosten-14502483.html
+|title=VW-Personalchef: Elektromobilität wird Zehntausende Jobs kosten|date=28
+October 2016|work=FAZ.NET |accessdate=1 November 2016}}</ref> VW considers battery
+factory ownership as too expensive.<ref>{{cite web|url=
+http://www.faz.net/aktuell/wirtschaft/neue-mobilitaet/osterloh-besteht-auf-bau-einer-batteriefabrik-14486729.html
+|title=Osterloh besteht auf Bau einer Batteriefabrik|date=18 October
+2016|work=FAZ.NET |accessdate=1 November 2016}}</ref>
+
+==Environmental record==
+[[File:VW XL 1 vr.JPG|thumb|right|The [[Volkswagen XL1]], with potential mileage as
+high as 261 mpg, is the most fuel-efficient car in the world]]
+
+In 1974 Volkswagen paid a $120,000 fine to settle a complaint filed by the
+Environmental Protection Agency over the use of so-called "defeat devices" that
+disabled certain pollution-control systems. The complaint said the use of the devices
+violated the U.S. Clean Air Act.
+<ref>{{cite web|title=VW had previous run-in over 'defeat
+devices'|url=https://www.cnbc.com/2015/09/23/vw-had-previous-run-in-over-defeat-devices.html|website=CNBC.COM|publisher=CNBC|accessdate=18
+October 2015}}</ref>
+
+In 1996, Volkswagen first implemented its seven environmental goals in Technical
+Development with themes involving climate protection, resource conservation, and
+healthcare, through objectives such as reducing greenhouse emissions and fuel
+consumption, enabling alternative fuels, and avoiding hazardous materials.<ref
+name=Volkswagen_Environment>{{cite
+web|url=http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/management___daten/management_und_verantwortung/Umweltziele.html
+|title=Volkswagen Environmental |author=Volkswagen |publisher=Volkswagen |date=12
+December 2010 |accessdate=12 December 2010 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20110226110727/http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/management___daten/management_und_verantwortung/Umweltziele.html
+|archivedate=26 February 2011 }}</ref> The goals have been revised in 2002 and 2007.
+Volkswagen was the first car manufacturer to apply [[ISO 14000]], during its drafting
+stage and was re-certified under the standards in September 2005.{{cn|date=July
+2017}}
+
+In 2011, [[Greenpeace]] began criticising Volkswagen's opposition to legislation
+requiring tighter controls on CO2 emissions and energy efficiency, and launched an
+advertising campaign parodying VW's series of ''[[Star Wars]]''-based
+commercials.<ref name=Volkswagen_Environment /><ref>{{cite
+web|url=http://vwdarkside.com |title= Volkswagen. The Dark Side. |
+publisher=Greenpeace |accessdate=31 March 2012}}</ref>
+
+In 2013, the Volkswagen XL1 became the most fuel-efficient production car in the
+world, with a claimed combined fuel consumption of 261 mpg (0.90
+liter/100&nbsp;km).<ref>{{cite web|title=The most fuel efficient car in the world:
+Volkswagen XL1 does 300 MILES to the gallon (and it looks cool too)
+|url=http://www.dailymail.co.uk/sciencetech/article-2540618/The-fuel-efficient-car-world-Volkswagen-XL1-does-300-MILES-gallon-looks-cool-too.html|website=Daily
+Mail|accessdate=21 February 2015|date=16 January 2014}}</ref> [[Energy-efficient
+driving|Driving style]] has huge impact on this result - "normal" driving produces
+mileage in the 120 mpg range (1.96 liter/100&nbsp;km) <ref>{{cite
+web|url=http://www.automobilemag.com/reviews/driven/1307_2014_volkswagen_xl1/|title=2014
+Volkswagen XL1 First Drive|date=20 May 2013|work=Automobile|accessdate=22 September
+2015}}</ref>
+
+{{asof|2014}}, VW is registered with a [[Corporate Average Fuel Economy]] (CAFE) of
+34<!--US-->-38<!--imported--> mpg in USA.<ref>Hicks, Maurice.
+"[http://www.nhtsa.gov/staticfiles/rulemaking/pdf/cafe/Performance-summary-report-12152014-v2.pdf
+NHTSA's Summary of Fuel Economy Performance]" page 9 ''[[NHTSA]]''/[[CAFE]]. December
+2014</ref>
+
+===Diesel emission violations===
+{{main article|Volkswagen emissions scandal}}
+{{wikinews|Volkswagen engulfed by diesel emissions scandal}}
+On 18 September 2015, the [[United States Environmental Protection Agency]] (EPA)
+said beginning in 2008 the automaker improperly installed [[engine control unit]]
+(ECU) software determined to be a "defeat device", in violation of the [[Clean Air
+Act (United States)|Clean Air Act]] to circumvent environmental regulations of
+[[NOx|NO<sub>''x''</sub>]] emissions by [[diesel engine]] 2009-2015 model year
+Volkswagen and Audi cars. The software detects when the cars were being subject to
+emissions testing, and then fully enabled ECU emission controls to successfully
+pass.<ref>{{cite news|title=Auto expert: 'A conscious breach of US
+law'|url=http://www.dw.com/en/auto-expert-a-conscious-breach-of-us-law/a-18728394|publisher=Deutsche
+Welle|date=21 September 2015}}</ref><ref>{{cite
+web|url=http://www.greencarcongress.com/2015/09/20150918-epaarb.html|title=Green Car
+Congress: EPA and California ARB charge Volkswagen with using software defeat device
+to circumvent NOx testing in 4-cylinder 2.0L
+dieselss|website=Greencarcongress.com|accessdate=2017-07-24}}</ref> However, during
+normal driving conditions, emission control software was shut off in order to attain
+greater fuel economy and additional power, resulting in as much as 40 times more
+pollution than allowed by law.<ref>Krall JR, Peng RD. The Volkswagen scandal:
+Deception, driving and deaths. Significance. 2015;12(6):12-5.</ref><ref>{{cite
+web|title = VW, Audi Cited by EPA for Cheating on Diesel Emissions Tests|url =
+http://www.consumerreports.org/cro/cars/vw--audi-cited-by-epa-for-cheating-on-diesel-emissions-tests
+|accessdate = 2015-09-26}}</ref> ''[[Consumer Reports]]'' tested a 2011 Jetta
+SportWagen TDI and found in emissions mode its 0-60&nbsp;mph time increased by 0.6
+seconds and its highway fuel economy dropped from 50 mpg to 46 mpg.<ref
+name=Fisher2015>{{Citation
+|url=http://www.consumerreports.org/cro/cars/testing-volkswagen-diesel-fuel-economy-and-performance-in-cheat-mode
+|title= Consumer Reports Tests VW Diesel Fuel Economy, Performance in 'Cheat' Mode;
+Tests reveal different results when the 'cheat' settings are used in the real world
+|first=Jake |last= Fisher |date=9 October 2015 |magazine=[[Consumer Reports]]
+}}</ref> Volkswagen admitted to using the defeat device, and has been ordered to
+recall approximately 482,000 cars with four-cylinder 2.0-liter [[Turbocharged Direct
+Injection|TDI]] engines.<ref>{{cite news|last1=Ewing|first1=Jack|title=Volkswagen
+Says 11 Million Cars Worldwide Are Affected in Diesel
+Deception|url=https://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html
+|work=New York Times|date=September 22, 2015}}</ref> United States federal penalties
+may include fines ranging up to US$18{{nbsp}}billion, and possibly criminal
+charges.<ref name="NYT EPA">{{Cite news|
+url=https://www.nytimes.com/2015/09/19/business/volkswagen-is-ordered-to-recall-nearly-500000-vehicles-over-emissions-software.html|
+title=VW Is Said to Cheat on Diesel Emissions; U.S. Orders Big Recall| first1=Coral|
+last1=Davenport |first2=Jack| last2=Ewing| newspaper=[[New York Times]]|date=18
+September 2015|accessdate=18 September 2015}}</ref> On June 28, 2016, Volkswagen
+agreed to pay a settlement of $15.3 billion, the largest auto-related consumer
+class-action lawsuit in the United States history.<ref>{{cite web|author=Michael
+Lewis
+|url=https://www.thestar.com/business/2016/06/28/volkswagen-agrees-to-landmark-147-billion-emissions-settlement-in-us.html
+|title=Volkswagen agrees to landmark $15.3-billion emissions settlement in U.S.
+|website=Thestar.com |date=2016-06-28 |accessdate=2017-07-24}}</ref>
+
+In May 2014, the EPA was first alerted to the issue by the [[International Council on
+Clean Transportation]] (ICCT), reporting results<ref name="CAFEE">{{Cite report|
+url=http://www.theicct.org/sites/default/files/publications/WVU_LDDV_in-use_ICCT_Report_Final_may2014.pdf|
+title=In-Use Emissions Testing of Light-Duty Diesel Vehicles in the United States|
+first1=Gregory J.| last1=Thompson| first2=Daniel K.| last2=Carder| first3=Marc C.|
+last3=Besch| first4=Arvind| last4=Thiruvengadam| first5=Hemanth K.| last5=Kappanna|
+publisher=Center for Alternative Fuels, Engines and Emissions (CAFEE), [[University
+of West Virginia]]| date=18 September 2015| accessdate=18 September 2015}}</ref> of
+research commissioned for them by [[West Virginia University]]'s Center for
+Alternative Fuels, Engines and Emissions (CAFEE).<ref name="CandD">{{Cite news|
+url=http://blog.caranddriver.com/volkswagen-allegedly-openly-violated-epa-diesel-laws-could-face-billions-in-fines/|
+title=Volkswagen Allegedly Openly Violated EPA Diesel Laws, Could Face Billions in
+Fines| first1=Clifford| last1=Atiyeh | magazine=Car and Driver|date=18 September
+2015|accessdate=18 September 2015}}</ref><ref>{{cite
+web|url=http://cafee.wvu.edu/|title=WVU Center for Alternative Fuels Engines and
+Emissions|website=Cafee.wvu.edu|accessdate=22 September 2015}}</ref> After 15 months
+of denying the emissions control systems were deliberately gamed and instead claiming
+discrepancies due to "technical" reasons, on August 21 Volkswagen acknowledged to the
+EPA and [[California Air Resources Board]] (CARB) their emission controls systems
+were rigged. This was followed by a formal announcement of admission to regulators on
+September 3 which took place immediately after the EPA threatened to withhold
+approval for their 2016 cars.<ref>{{cite
+web|url=http://www.autonews.com/article/20150924/OEM/150929873/vw-after-a-year-of-stonewalling-stunned-u-s-regulators-with|title=VW,
+after a year of stonewalling, stunned U.S. regulators with
+confession|website=Autonews.com|accessdate=2017-07-24}}</ref> Volkswagen's initial
+public response came on 20 September, when a spokesman said they would stop all US
+sales of the diesel models affected. Chairman Martin Winterkorn issued an apology and
+said Volkswagen would cooperate with investigators.<ref name=Ewing2015a>{{Citation
+|title= Volkswagen to Stop Sales of Diesel Cars Involved in Recall |first1= Jack
+|last1=Ewing |first2=Coral |last2= Davenport |date= 20 September 2015 |url=
+https://www.nytimes.com/2015/09/21/business/international/volkswagen-chief-apologizes-for-breach-of-trust-after-recall.html
+|newspaper= [[New York Times]] }}</ref> Since emission standards in Canada are close
+to those in the US, Volkswagen Canada also halted sales of the affected diesel
+models.<ref>{{cite
+news|url=http://www.cbc.ca/news/business/volkswagen-emissions-rigging-1.3236548
+|title=Volkswagen Canada halts some sales as emissions rigging scandal
+deepens|date=22 September 2015|website=Cbc.ca|accessdate=22 September 2015}}</ref> on
+22 September 2015, Volkswagen spokesman admitted that the defeat device is installed
+in ~11 million vehicles with Type [[EA 189]] diesel engines worldwide.<ref>{{cite
+web|url=https://www.wsj.com/articles/volkswagen-emissions-scandal-relates-to-11-million-cars-1442916906
+|title=Volkswagen Emissions Scandal Relates to 11 Million Cars|author1=William Boston
+|author2=Sarah Sloat |lastauthoramp=yes |date=22 September 2015|work=WSJ}}</ref>
+
+On the first business day after the news, Volkswagen's stock price declined 20% and
+declined another 17% the following day, the same day a social media advertisement
+with ''[[Wired (magazine)|Wired]]'' about "how diesel was re-engineered" was removed
+as well as a series of [[YouTube]] ads titled "Diesel Old Wives’ Tales".<ref>{{cite
+web|url=http://adage.com/article/cmo-strategy/wired-s-native-ad-volkswagen-diesel-tech-missing/300496/|title=Wired's
+Native Ad for Volkswagen Diesel Tech Goes
+Missing|website=Adage.com|accessdate=2017-07-24}}</ref><ref
+name=Ewing2015b>{{Citation |title= Volkswagen Denied Deception to E.P.A. for Nearly a
+Year |first1= Jack |last1=Ewing |date= 21 September 2015
+|url=https://www.nytimes.com/2015/09/22/business/international/volkswagen-shares-recall.html
+|newspaper= [[New York Times]] }}</ref><ref>{{cite web|title = Why Did Volkswagen
+Delete All Of Its Diesel Ads From YouTube?|url =
+http://jalopnik.com/why-did-volkswagen-delete-all-of-its-diesel-ads-from-yo-1731691453|accessdate
+= 2015-09-26|first = Michael|last = Ballaban}}</ref> On Wednesday, 23 September,
+Volkswagen chief executive officer [[Martin Winterkorn]] resigned.<ref
+name=VWrefuses>{{Citation |title= Volkswagen chief executive Martin Winterkorn
+resigns |date= 23 September 2015 |url=http://www.bbc.co.uk/news/business-34340997
+|newspaper= [[BBC UK]] }}</ref> Volkswagen hired [[Kirkland & Ellis]] law firm for
+defense, the same firm that defended [[BP]] during the [[Deepwater Horizon oil
+spill]].<ref>{{cite web|url=http://www.autonews.com/article/20150923/OEM01/150929934
+|title=Volkswagen hires law firm that defended BP after oil spill|work=Automotive
+News}}</ref>
+
+On November 2, 2016, the EPA issued a second notice of violation (NOV) pertaining to
+certain diesel 3.0-liter [[V6]] equipped Audi, [[Volkswagen Touareg]] and [[Porsche
+Cayenne]] vehicles.<ref>{{cite web
+|url=http://yosemite.epa.gov/opa/admpress.nsf/0/4A45A5661216E66C85257EF10061867B
+|title=Archived copy |accessdate=2015-11-03 |deadurl=yes
+|archiveurl=https://web.archive.org/web/20151105103847/http://yosemite.epa.gov/opa/admpress.nsf/0/4A45A5661216E66C85257EF10061867B
+|archivedate=5 November 2015 |df=dmy-all }}</ref> The EPA found beginning with the
+2009 model year all vehicles powered by the V6 were non-compliant.<ref>{{cite
+web|url=http://www.autonews.com/article/20151120/OEM11/151129977/vws-3-0-liter-diesels-under-wider-scrutiny-by-epa-carb|title=VW's
+3.0-liter diesels under wider scrutiny by EPA,
+CARB|website=Autonews.com|accessdate=2017-07-24}}</ref> During testing the EPA, CARB
+and Transport Canada discovered software that activates pollution reduction systems
+when the automobiles are being driven under federal test conditions, otherwise during
+real world driving these devices are inactive.<ref>{{cite
+web|url=http://www.autonews.com/article/20151103/COPY01/311039953/vw-prepares-to-fight-latest-diesel-cheating-allegations|title=VW
+prepares to fight latest diesel cheating
+allegations|website=Autonews.com|accessdate=2017-07-24}}</ref><ref>{{cite
+web|url=http://www.autonews.com/article/20151102/OEM01/151109977/vw-porsche-audi-3-0-liter-diesels-also-have-defeat-devices-epa-says|title=VW,
+Porsche, Audi 3.0-liter diesels also have 'defeat devices,' EPA
+sayss|website=Autonews.com|accessdate=2017-07-24}}</ref> Volkswagen disputed the
+EPA's findings stating their software was legally permitted,<ref>{{cite
+web|url=https://www.wsj.com/articles/epa-notifies-volkswagen-of-added-emissions-violations-1446491504|title=EPA,
+Volkswagen Spar Over New Emissions
+Claims|first1=Mike|last1=Spector|first2=William|last2=Boston|date=4 November
+2015|website=Wsj.com}}</ref> however shortly after Volkswagen issued a stop-sale for
+the EPA's disputed vehicles and additional models the EPA did not
+question.<ref>{{cite
+web|url=http://www.greencarreports.com/news/1100782_audi-porsche-vw-diesel-stop-sale-orders-more-cars-than-epa-named|title=Audi,
+Porsche, VW Diesel Stop-Sale Orders: More Cars Than EPA
+Named|website=Greencarreports.com|accessdate=2017-07-24}}</ref> 
+
+In March 2016, the US [[Federal Trade Commission]] sued Volkswagen for false
+advertising, because Volkswagen's "clean diesel" vehicles were less environmentally
+friendly than advertised.<ref>{{cite
+web|url=http://www.autonews.com/article/20160329/RETAIL03/160329857/vws-u-s-arm-sued-by-ftc-over-clean-diesel-ads|title=VW's
+U.S. arm sued by FTC over 'clean diesel'
+ads|website=Autonews.com|accessdate=2017-07-24}}</ref>
+
+In November 2016, Volkswagen and its labour unions agreed to reduce the workforce by
+30,000 people until 2021 as a result of the costs from the violations. However, 9,000
+new jobs would come by producing more electric cars.<ref>{{cite
+web|url=http://fortune.com/2016/11/18/volkswagen-vw-job-cuts/ |title=Volkswagen Is
+Said to Be Cutting 30,000 Jobs|date=18 November 2016|work=Fortune|accessdate=18
+November 2016}}</ref> Volkswagen also announced plans to become the world leader in
+electric cars, producing 1 million VW-EVs by 2025 and 3 million by the
+group,<ref>DAVID McHUGH.
+"[https://www.usnews.com/news/business/articles/2016-11-22/volkswagen-aims-to-go-electric-raise-lagging-profits
+VW Betting on New Technology]" ''[[Associated Press]]'', 22 November 2016.</ref> and
+a VW manager stated that its diesel cars would not become available in
+USA.<ref>{{cite
+web|url=https://global.handelsblatt.com/breaking/vw-to-withdraw-from-u-s-diesel-market
+|title=VW to Withdraw from U.S. Diesel Market|work=[[Handelsblatt]] Global
+Edition|accessdate=22 November 2016}}</ref>
+
+On 11 January 2017, Volkswagen agreed to plead guilty to the emissions-cheating
+scandal and to pay $4.3 billion in penalties. Six Volkswagen executives were
+charged.<ref>{{cite news|last1=Ewing|first1=Hiroko Tabuchi,
+Jack|last2=Apuzzo|first2=Matt|title=Six Volkswagen Executives Charged in Emissions
+Scandal|url=https://www.nytimes.com/2017/01/11/business/volkswagen-diesel-vw-settlement-charges-criminal.html?_r=0|accessdate=11
+January 2017|work=The New York Times|date=11 January 2017}}</ref><ref>{{cite
+news|last1=Shepardson|first1=David|title=U.S. indicts six as Volkswagen agrees to
+$4.3 billion diesel
+settlement|url=http://uk.reuters.com/article/uk-volkswagen-emissions-idUKKBN14V2E0|accessdate=11
+January 2017|work=Reuters UK}}</ref> The following day, one of the indicted
+executives was ordered to be held without bail pending trial as it was feared that he
+would flee to Germany and extradition would be impossible.<ref>{{cite
+news|title=Judge denies bail for indicted Volkswagen
+executive|url=http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2017-01-12-US--Volkswagen-Emissions%20Scandal-Executive/id-3fe7c76adf684f558efec41a3eac788d|accessdate=12
+January 2017|work=Associated Press|date=12 January 2017}}</ref><ref>{{cite
+news|title=U.S. judge orders Volkswagen executive
+detained|url=https://www.reuters.com/article/us-volkswagen-emissions-idUSKBN14W2YZ|accessdate=12
+January 2017|work=Reuters|date=12 January 2017}}</ref> Senior VW management staff
+were warned not to travel to the US.<ref>{{cite news|title=Senior VW managers warned
+not to travel to U.S.:
+sources|url=https://www.reuters.com/article/us-volkswagen-emissions-extradition-idUSKBN14X175|accessdate=13
+January 2017|work=Reuters|date=13 January 2017}}</ref> On 23 January 2017, a US judge
+approved a $1.2 billion settlement in which 650 American dealers, "who, like
+consumers, were blindsided by the brazen fraud that VW perpetrated," would receive an
+average of $1.85 million.<ref>{{cite news|title=U.S. judge approves Volkswagen
+dealers $1.2 billion
+settlement|url=https://www.reuters.com/article/us-volkswagen-emissions-idUSKBN1572SC|accessdate=24
+January 2017|work=Reuters|date=24 January 2017}}</ref>
+
+==Awards==
+[[File:Volkswagen Polo 2011 (7708695660).jpg|thumb|right|The [[Volkswagen Polo]] in
+Christchurch, New Zealand. The Volkswagen Polo won the 2010 World Car of the Year]]
+[[File:VW take up! 1.0 – Frontansicht, 25. Februar 2012,
+Düsseldorf.jpg|thumb|right|The [[Volkswagen up!]] won the 2012 World Car of the
+Year]]
+
+Volkswagen was named the fourth most influential car of the 20th century in the 1999
+[[Car of the Century]] competition, for its [[Volkswagen Beetle|Volkswagen Type 1
+'Beetle" model]]. It trailed only the [[Ford Model T]], BMC [[Mini]], and [[Citroën
+DS]].<ref>{{cite
+news|url=https://www.nytimes.com/1999/12/24/automobiles/this-just-in-model-t-gets-award.html|title=This
+Just In: Model T Gets Award|first=James G.|last=Cobb|date=24 December
+1999|newspaper=[[The New York Times]]}}</ref>
+
+Volkswagen has produced three winners of the 50-year-old [[European Car of the Year]]
+award.
+
+{{unbulleted list|1992 - [[Volkswagen Golf]]|2010 - [[Volkswagen Polo]]|2013 -
+[[Volkswagen Golf]]}}
+
+Volkswagen has produced five winners of the United States [[Motor Trend Car of the
+Year]] award&nbsp;— the original [[Car of the Year]] designation, which began in
+1949.
+
+{{unbulleted list|1985 - [[Volkswagen Golf|Volkswagen GTI]]|1999 - [[Volkswagen New
+Beetle]] (Import COTY subgroup)|2004 - [[Volkswagen Touareg]] ([[Sport Utility
+Vehicle]] COTY subgroup)  |2012 - [[Volkswagen Passat]]|2015 - [[Volkswagen
+Golf#Seventh generation (A7, Typ 5G; 2013–present)|Volkswagen Golf
+line-up]]<ref>{{cite
+web|url=http://www.greencarcongress.com/2014/11/20141113-golf.html|title=Volkswagen
+Golf family named "2015 Motor Trend Car of the Year" |author=Mike Millikin
+|publisher=[[Green Car Congress]]|date=2014-11-13|accessdate=2014-11-15}}</ref>}}
+
+Volkswagen has already produced four winners of the recently developed [[World Car of
+the Year]] award.
+
+{{unbulleted list|2009 - [[Volkswagen Golf]]|2010 - [[Volkswagen Polo]]|2012 -
+[[Volkswagen up!]]|2013 - [[Volkswagen Golf]]}}
+
+==Motorsport==
+{{main article|Volkswagen Motorsport}}
+
+===Formula racing===
+
+* In 1963, [[Formula Vee]] circuit racing, with cars built from easily available
+* [[Volkswagen Beetle#Power|Beetle]] parts, started in the United States. It quickly
+* spread to Europe and other parts of the world. It proved very popular as a low-cost
+* route into formula racing.<ref>{{cite
+* web|url=http://www.formulaveesa.org.za/index.php?option=com_content&view=article&id=51&Itemid=62
+* |title=South African Formula Vee History |publisher=Formulaveesa.org.za |date=17
+* May 2009 |accessdate=27 September 2010 |deadurl=yes
+* |archiveurl=https://www.webcitation.org/5DBVfgAaj?url=http://www.geeky.net/geeky.css
+* |archivedate= 24 January 2006 }}</ref>
+* In 1971, Volkswagen of America started the more powerful [[Formula Super Vee]],
+* which became famous for hothousing new talent.{{citation needed|date=February
+* 2015}} In the 11 years it ran, until 1982, it produced a stable of world-famous
+* [[Formula One]] drivers—names like [[Niki Lauda]], [[Jochen Mass]], [[Nelson
+* Piquet]], [[Jochen Rindt]] and [[Keke Rosberg]]. Volkswagen also notched up several
+* victories, and the championship in [[Formula Three]].
+* In July 2011 Wolfgang Dürheimer, the director of Bugatti and Bentley, told German
+* magazine ''[[Auto, Motor und Sport]]'' that "if [the VW group] is at the forefront
+* of the auto industry, I can imagine us competing in Formula 1 in 2018.  We have
+* enough brands to pull it off."<ref>{{cite web|title=Volkswagen in F1 by 2018?
+* |url=http://europeancarnews.com/2011/07/28/volkswagen-in-f1-by-2018/
+* |publisher=European Car News |accessdate=28 July 2011 }}{{dead link|date=June
+* 2016|bot=medic}}{{cbignore|bot=medic}}</ref> They did not compete in F1 in 2018.
+
+===World Rally Championship===
+* In 1981, now based in [[Hanover]], VW took a new direction into rallying, with the
+* launch of the first-generation Golf, and Sweden's [[Per Eklund]], Frenchman
+* [[Jean-Luc Thérier]], and the Finn [[Pentti Airikkala]]. The final chapters in
+* Volkswagen Racing UK's rallying story were the 'one-make' Castrol Polo Challenge,
+* and the Polo GTI 'Super 1600' in 2001.
+* Volkswagen Motorsport won the [[World Rally Championship]] with [[Sébastien Ogier]]
+* and co-driver [[Julien Ingrassia]] four years in a row from 2013 to 2016 in the
+* [[Volkswagen Polo R WRC]].
+
+===Dakar Rally===
+* In 1980, Volkswagen competed with the Audi-developed [[Volkswagen Iltis|Iltis]],
+* placing 1st, 2nd, 4th and 9th overall.
+* In 2003, the Hanover-based team entered with a 2WD buggy named Tarek, finishing 6th
+* overall and 1st in the 2WD and Diesel class. 
+* In 2005, an updated Race-Touareg with slightly more power entered, with driver
+* [[Bruno Saby]] finishing 3rd overall and 1st in the Diesel class. 
+* In 2006, the revised Race-Touareg entered, with driver [[Giniel de Villiers]]
+* finishing 2nd overall and 1st in the Diesel class. 
+* Volkswagen won the [[2009 Dakar Rally|2009]], [[2010 Dakar Rally|2010]] and [[2011
+* Dakar Rally]], held in South America.
+
+===Volkswagen motorsport worldwide===
+* Europe: In 1998 the company founded the ADAC Volkswagen Lupo Cup, founded in 1998
+* (renamed Polo Cup in 2003, and [[Volkswagen Scirocco R-Cup]] from 2010 to 2014),
+* and started the ADAC [[Volkswagen New Beetle|New Beetle]] Cup in 2000. In 2004,
+* [[Volkswagen Commercial Vehicles]] entered the [[European Truck Racing]] series
+* with the Volkswagen Titan truck&nbsp;– it became a back-to-back champion for the
+* 2004 and 2005 series.
+* United States: In 1976, Volkswagen entered the under-2000-cc [[Trans-Am Series]],
+* with the Scirocco, and they won their class outright.<ref>{{cite
+* web|url=http://img.photobucket.com/albums/v243/europlus/77sciroccotransam.jpg
+* |title=Scirocco Trans Am Article/Advert |accessdate=27 September 2010}}</ref>
+* Beginning in 2008 Volkswagen introduced the Jetta TDI Cup. The Jetta TDI Cup is a
+* SCCA sanctioned race series that features 25 drivers between the ages of 16 and 26
+* driving slightly modified 2009 Jetta TDIs. The series features 10 events at 8
+* different road courses across North America. There is $50,000 prize money at stake
+* over the course of the series in addition to the $100,000 prize awarded to the
+* champion of the series at the conclusion of the last race.<ref>{{cite
+* web|url=http://www.vw.com/vwbuzz/browse/en/us/detail/Twenty_two_drivers_qualify_for_2010_Volkswagen_Jetta_TDI_Cup_final_driver_selection_event/339
+* |title=Twenty two drivers qualify for 2010 Volkswagen Jetta TDI Cup final driver
+* selection event |website=VW.com |accessdate=22 December 2009 |deadurl=yes
+* |archiveurl=https://web.archive.org/web/20100826224542/http://www.vw.com/vwbuzz/browse/en/us/detail/Twenty_two_drivers_qualify_for_2010_Volkswagen_Jetta_TDI_Cup_final_driver_selection_event/339
+* |archivedate=26 August 2010 }}</ref>
+* Argentina: Many Volkswagen models have competed in [[TC 2000]], including the 1980
+* to 1983 champion [[Hillman Avenger#Argentina|Volkswagen 1500]] and the 1994
+* champion [[Volkswagen Gol]].
+* In 1999 and 2000, VW won the F2 Australian Rally Championship with the Golf GTI.
+* Finland: In 2002, VW won the [[Finnish Rally Championship]] in a7/(F2), with a Golf
+* Mk4 KitCar, with [[Mikko Hirvonen]]. In 1999 and 2000, VW won the Finnish Rally
+* Championship in a7/(F2) with a Golf Mk3 KitCar. In 2000, 2001 and 2002, VW won the
+* Finnish Racing Championship in Sport 2000 with a Golf Mk4.<ref>[[:de:Deutsche
+* Tourenwagen Challenge|DTC]] {{de icon}}</ref>
+* Austria: From 1967 until 1974, the Austrian sole distributor [[Porsche Salzburg]]
+* entered the [[VW Beetle]] (1500, 1302S and 1303S) in Europe-wide rallies. Victories
+* were achieved in 1972 and 1973 in the overall Austrian championship, on Elba, in
+* the Acropolis rally (first in class). Top drivers were [[Tony Fall]] (GB), [[Achim
+* Warmbold]] (D), Günter Janger (A), [[Harry Källström]](S).
+
+<div class="center"><gallery>
+File:VW Typ 60 K 10 - Porsche Typ 64 (Berlin-Rom-Wagen), Bj.1939.jpg|1939 Berlin to
+Rome. Porsche Type 64 racer based on [[Volkswagen Beetle|Beetle]] platform
+File:Volkswagen Beetle Fittipaldi-Baldahl 1967.jpg|Twin-engine racing [[Volkswagen
+Beetle|Beetle]] developed by [[Wilson Fittipaldi Júnior|Wilson]] and [[Emerson
+Fittipaldi]] brothers
+File:TC2000 Sportteam Competicion 2006 Volkswagen Bora.jpg|[[Volkswagen Jetta|Bora]]
+in [[TC 2000]], a national championship of Argentina
+File:Stock Car V8 Brasil Amir Nasr Racing.jpg|[[Volkswagen Jetta|Bora]] in [[Stock
+Car Brasil]]
+File:VW Race Touareg 2 blue vl EMS.jpg|Edition 2007 Race [[Volkswagen Touareg|Touareg
+2]] at Essen Motor Show 2006
+File:Formula Truck 2006 Interlagos Volkswagen leads.jpg|[[Volkswagen
+Constellation|Constellation]] in the 2006 Brazilian [[Fórmula Truck]] Championship
+</gallery></div>
+
+<!--
+
+'''Volkswagen 2016'''
+
+Despite the ongoing emissions scandal, VW's production for the first six months' of
+2016 has been confirmed at 5,268,000 cars. Toyota produced 5,033,177 cars, while GM's
+total figure has yet to be released, but is known to be smaller.[[citation
+needed|date=June 2017]]
+
+These figures change slightly when car sales are taken into account: Volkswagen Group
+sold 5,199,000 cars, while Toyota sold 4,991,741 across its four brands: Toyota,
+Lexus, Daihatsu and Hino. GM sold 4,760,000 cars in the same
+period.[http://www.autocar.co.uk/car-news/new-cars/volkswagen-world%E2%80%99s-largest-car-maker-over-first-half-2016]
+
+-->
+
+== Literature ==
+* Jonas Kiefer: ''VW Typenatlas, Serienfahrzeuge.'' 2. Auflage. Delius Klasing,
+* Bielefeld 2002, {{ISBN|3-7688-1271-5}}.
+* Rudi Heppe: ''VW Personenwagen.'' Podszun, Brilon 2001, {{ISBN|3-86133-209-4}}.
+* Halwart Schrader: ''VW Personenwagen seit 1945, Band 1, Typenkompass.'' Motorbuch
+* Verlag, Stuttgart 2001, {{ISBN|3-613-02105-6}}.
+* Halwart Schrader: ''VW Personenwagen seit 1945, Band 2, Typenkompass.'' Motorbuch
+* Verlag, Stuttgart 2001, {{ISBN|3-613-02186-2}}.
+* Werner Oswald: ''Deutsche Autos, Band 2, 1920–1945.'' 2. Auflage. Motorbuch Verlag,
+* Stuttgart 2005, {{ISBN|3-613-02170-6}}.
+* Werner Oswald: ''Deutsche Autos, Band 3, 1945–1990, Ford, Opel und Volkswagen.'' 1.
+* Auflage. Motorbuch Verlag, Stuttgart 2001, {{ISBN|3-613-02116-1}}.
+
+==See also==
+{{Portal|Germany|Cars|Companies}}
+* [[Baja bug]]
+* [[Cal Look]]
+* [[Fahrvergnügen]]
+* [[List of German cars]]
+* [[List of automobile manufacturers]]
+* [[Punch buggy]]
+* [[Standard Superior]]&nbsp;– a previous attempt to produce a "Volkswagen"
+* [[Steyr 50]]
+* [[Twin Drive]]
+* [[VDub]]&nbsp;– tagline for the recent VWoA Golf GTI TV advertisemen*
+* [[Volksflugzeug]]
+* [[Volksrod]]
+* [[Volkswagen advertising history]]
+* [[VW 276 Schlepperfahrzeug]], military use 1944
+
+== Notes ==
+{{Reflist|group=Note|colwidth=60em}}
+
+== References ==
+{{Reflist|30em|refs=
+<ref name=Spiegel>{{cite web
+|
+url=http://www.spiegel.de/einestages/apple-starbucks-coca-cola-vw-firmenlogos-und-ihre-geschichte-a-1073926.html
+| work=[[Der Spiegel]]
+| title=Das machen wir mal lieber neu
+| author=Christoph Stehr
+| date=2 February 2016
+| accessdate=7 February 2016
+| language=German
+}}</ref>
+}}
+
+== Further reading ==
+* William Shirer, The Rise and Fall of the Third Reich (50th Anniversary Edition)
+* (New York: Simon & Schuster, 1990)
+* Andrea Hiott, Thinking Small (New York: Ballantine Books, 2012)
+
+==External links==
+{{Commons category multi|Volkswagen|Volkswagen vehicles}}
+* [http://www.volkswagen.com/ Volkswagen.com] Volkswagen Cars Worldwide portal
+* [http://www.volkswagen-classic.de/ Volkswagen Classic] {{de icon}}
+* [http://www.thecaryoudrive.com/en/02175a425 Volkswagen Cars Technical Information]
+
+{{Volkswagen Group brands}}
+{{Volkswagen}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+{{Automotive industry in Germany}}
+
+{{Use British English|date=August 2010}}
+{{Use dmy dates|date=October 2012}}
+
+<!-- this Volkswagen brand vehicles company has its own category here. If you'd like
+to add other VW brands, please add them to the Category:Volkswagen Group
+instead—thanks. -->
+
+[[Category:Volkswagen vehicles| ]]
+[[Category:Volkswagen Group]]
+[[Category:Car manufacturers of Germany]]
+[[Category:Motor vehicle manufacturers of Germany]]
+[[Category:Cars of Germany]]
+[[Category:Electric vehicle manufacturers]]
+[[Category:Motor vehicle companies]]
+[[Category:Multinational companies headquartered in Germany]]
+[[Category:Vehicle manufacturing companies established in 1937]]
+[[Category:1937 establishments in Germany]]
+[[Category:Companies based in Lower Saxony]]
+[[Category:German brands]]
+[[Category:Clio Award winners]]
+[[Category:Wolfsburg]]
+[[Category:Car brands]]
+
